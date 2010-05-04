@@ -1,3 +1,0 @@
-./data/profiles/default/opml/gPodder:channels.opml:symlink	=	/profile.d/~slash./config/gpodder/channels.opml
-./data/profiles/default/opml/back-ups/.opml	=	/profile.d/~slash./config/gpodder/channels.opml
-./media.symlinks/podcasts	=	/media/podcasts
