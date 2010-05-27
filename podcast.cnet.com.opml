@@ -1,0 +1,1013 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!-- Vader loves you -->
+<head> <title>CNET Podcast Central - CNET.com</title> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> <meta property="fb:app_id" content="16995676698"/> <meta property="fb:page_id" content="7155422274" /> <meta property="og:site_name" content="CNET"/> <script type="text/javascript" src="http://i.i.com.com/cnwk.1d/html/rb/js/tron/oreo.moo.rb.combined.js">
+</script> <script type="text/javascript">
+
+            UserVars = new LocalVars.UserVars({
+                loggedIn: ' ',
+                userName: ' ',
+                ursRegId: ' ',
+                rememberMe: ' ',
+                confirmed: ' '
+            });
+
+            PageVars = new LocalVars.PageVars({
+                pageType: '2709',
+                nodeId: '11455',
+                siteId: '1',
+                assetId: '88',
+                pageNumber: '',
+                channelId: '11455',
+                editionId: '3',
+                brandId: '1',
+                breadcrumb: '11455',
+                userIP: '216.160.137.111',
+                guid: 'OFHOowoPjAMAAGV-tZ8AAABW'
+               });
+        </script> <!--[if IE 6]> <script type="text/javascript" src="http://i.i.com.com/cnwk.1d/html/rb/js/tron/FixPNG.js">
+</script> <![endif]-->  <div style="display:none">Version: 2008</div> <link type="text/css" rel="stylesheet" rev="stylesheet" media="screen" href="http://i.i.com.com/cnwk.1d/css/rb/tron/matrix.css"/> <link type="text/css" rel="stylesheet" rev="stylesheet" media="print" href="http://i.i.com.com/cnwk.1d/css/rb/tron/print.css"/> <!-- UGC Maintenance Mode --> <meta name="keywords" content="Podcast Central, podcast, podcasts, CNET podcasts, Buzz Out Loud, BOL"/> <meta name="description" content="Welcome to CNET Podcast Central, the home for all of CNET's podcasts. From Buzz Out Loud, a daily digest of tech news that's relevant, hard-hitting, or just plain goofy, to help and tips, to the latest in auto tech, you'll find it all here."/> <link type="text/css" rel="stylesheet" rev="stylesheet" href="http://i.i.com.com/cnwk.1d/css/pod/tron_podcast_central2.css"/> <link type="text/css" rel="stylesheet" rev="stylesheet" href="http://i.i.com.com/cnwk.1d/css/ssa/snip/snippy.css" /> <!-- Remove intromercial ad for DL except for DL FD (pagetype 2000) - per bug 437976 --> <!-- MAC T 3.3.4.4 -->
+<!-- MAC [r20091112-1054-msm-v1-13-11-DynamicHttpFetch:1.13.11] c18-rb-tron-xw4.cnet.com::1335986528 2010.05.27.09.43.16 -->
+<!-- MAC-AD STATUS: COULD NOT MAP ( _MAPPINGS='CNET' BRAND='1' SITE='1' SP='80' CNET-PTYPE='00' POS='100' NCAT='11455:' CNET-PARTNER-ID='1' ) TO _RGROUP -->
+<!-- NO AD TEXT: _QUERY_STRING="POS=100&SP=80" _REQ_NUM="0"  -->
+<!-- MAC ad --> <script type="text/javascript" src="http://dw.com.com/js/dw.js">
+</script> <script type="text/javascript">
+            DW.pageParams = {
+                siteid: '1',
+                edid:   '3',
+                prtnr:  'CNET Networks, Inc.',
+                ptid:   '2709',
+                onid:   '11455',
+                asid:   '88',
+                pgnbr:  '',
+                astId:  '1'
+            };
+            DW.regSilo = '1';
+            
+        </script>
+</head> <body class="siteId1 pageType2709 node11455">
+<script type="text/javascript">
+    DW.trackClicks();
+</script> <div id="rb_bodyWrap"> <div id="rb_shell"> <!-- ugcFlags Login mmode value: false -->
+<!-- ugcFlags DlUFO mmode value: false -->
+<!-- ugcFlags Comments mmode value: false --> <div id="rb_header" section="hdr" name="rb_header"> <div id="headerContents"> <ul id="brandNavBar" class="section" section="brandnav"> <li class="brandNav"> <ul> <li class="siteId1 active">
+<a href="/2001-1_1-0.html">
+<span>home</span>
+</a>
+</li> <li class="siteId7 ">
+<a href="http://reviews.cnet.com/2001-1_7-0.html">
+<span>reviews</span>
+</a>
+</li> <li class="siteId3 ">
+<a href="http://news.cnet.com/2001-1_3-0.html">
+<span>news</span>
+</a>
+</li> <li class="siteId4 ">
+<a href="http://download.cnet.com/">
+<span>downloads</span>
+</a>
+</li> <li class="siteId53 ">
+<a href="http://cnettv.cnet.com/2000-1_53-0.html">
+<span>cnet tv</span>
+</a>
+</li> </ul> </li>
+<!-- /brandNav --> <li class="rubics"> <div id="rubicsTextAd"> <!-- rubics ssi -->
+<!-- MAC T 5.5.b.b -->
+<!-- MAC [r20091112-1054-msm-v1-13-11-DynamicHttpFetch:1.13.11] c18-rb-tron-xw4.cnet.com::1335986528 2010.05.27.09.43.16 -->
+<div class='rubics_netxp1_main' id='rbx_netxp1_parent'>
+<script type='text/javascript'>
+function do_rbx_ctrk_netxp1 (aElem, iTrkId, cTrkPrefix) {
+	var imgElem = document.getElementById(iTrkId);
+	if (!imgElem) {
+		return true;
+	}
+
+	if (!aElem.rbxCPrefixed) {
+		aElem.rbxCPrefixed = true;
+		var destUri = encodeURIComponent(aElem.href);
+		var newUri = cTrkPrefix + destUri;
+		aElem.href = newUri;
+	}
+	return true;
+}
+function do_rbx_itrk_netxp1 (parentId, iTrkId, iTrkUri) {
+	if (!document.images) {
+		return false;
+	}
+
+	var imgId = iTrkId;
+	var imgElem = document.getElementById(imgId);
+
+	if (!imgElem) {
+
+		var parentElem = document.getElementById(parentId);
+		if (!parentElem) {
+			return false;
+		}
+
+		var imgElem = document.createElement('img');
+		if (!imgElem) {
+			return false;
+		}
+
+		imgElem.id = imgId;
+		imgElem.src = iTrkUri;
+		imgElem.alt = '';
+		imgElem.width = '1';
+		imgElem.height = '1';
+
+		parentElem.appendChild(imgElem);
+	}
+	return true;
+}
+</script>
+	On CHOW: 
+	<a target='_top' onclick="return do_rbx_ctrk_netxp1(this, 'rbx_netxp1_1', 'http://dw.com.com/rubicsclk?ver=2&amp;ts=2010.05.27.02.43.16.PDT&amp;edId=3&amp;onId=11455&amp;ptId=2709&amp;sId=1&amp;appId=19&amp;offId=8604&amp;unitId=45&amp;poolId=1&amp;f1=1&amp;f2=-0&amp;f3=-0&amp;alg=8&amp;&amp;opt=1&amp;linkPos=0&amp;destUrl=');" href='http://www.chow.com/stories/12000' class='xpromolink'>Can girls use the guys&#39; bathroom?</a>
+<script type='text/javascript'>
+//<![CDATA[
+do_rbx_itrk_netxp1('rbx_netxp1_parent', 'rbx_netxp1_1', 'http://dw.com.com/rubicsimp/c.gif?ver=2&ts=2010.05.27.02.43.16.PDT&edId=3&onId=11455&ptId=2709&sId=1&appId=19&unitId=45&poolId=1&f1=1&f2=-0&f3=-0&alg=8&opt=1&off=8604,-1');
+//]]>
+</script>
+</div>
+<!-- pyrus t 0.1.1.1.4.4.4.4 -->
+<!-- MAC ad -->
+<style type="text/css">.siteId7 .mpu {height:auto;}.siteId1.node1 #tabbedPromoUnitHolder {margin:20px 0 0;}</style> </div> </li> <li class="last loginAction"> <ul class="loggedOut"> <li class="first">
+<a id="openLogIn" onclick="CURS.Manager.checkLogin({ursForm: 'login'})">log in</a>
+</li>
+<li class="last"> <a onclick="CURS.Manager.checkLogin({ursForm: 'register'})">join CNET</a>
+</li> </ul> <ul class="loggedIn" style="display:none"> <li class="first">
+<strong class="welcome">welcome, <a href="/profile/">
+<span class="cnetUserName">
+</span>
+</a>
+</strong>
+</li>
+<li>
+<a href="/profile/">my profile</a>
+</li>
+<li class="last"> <a class="logOut" href="/1330-4_1-103.html">log out</a>
+</li> </ul> </li> </ul> <div id="rb_logos"> <a href="/2001-1_1-0.html" class="rblogo">
+<img src="http://i.i.com.com/cnwk.1d/i/b.gif" border="0" alt="CNET.com" />
+</a> <a href="/2001-1_1-0.html" class="siteId1logo siteLogo">
+<img src="http://i.i.com.com/cnwk.1d/i/b.gif" border="0" alt=""/>
+</a> </div> <div id="rb_navSearch"> <form method="get" action="/1770-5_1-0.html" class="universalSearch" name="tsearch" section="srch" id="universalSearch"> <div class="searchBoxWrap">
+<span>
+<input type="text" name="query" size="20" maxlength="255" class="searchBox" autocomplete="off" id="universalSearchBox"/>
+</span>
+</div> <input type="hidden" name="tag" value="srch" /> <input type="button" class="searchGo" value="Go" onclick="submitSearch('universalSearch',false);" /> </form> <ul id="siteNav" section="snav"> <li >
+<a href="/2001-1_1-0.html">Home</a>
+</li> <li>
+<a href="http://reviews.cnet.com/2001-1_7-0.html">Reviews</a>
+</li> <li>
+<a href="http://news.cnet.com/2001-1_3-0.html">News</a>
+</li> <li>
+<a href="http://download.cnet.com/">Downloads</a>
+</li> <li>
+<a href="http://cnettv.cnet.com/2000-1_53-0.html">CNET TV</a>
+</li>
+</ul> </div>
+<!-- /rb_navSearch --> <!-- MAC T b.b.d.d -->
+<!-- MAC [r20091112-1054-msm-v1-13-11-DynamicHttpFetch:1.13.11] c18-rb-tron-xw4.cnet.com::1335986528 2010.05.27.09.43.16 -->
+<div class="headerTextAd">
+<span class="nextToAdGif">
+<img src="http://i.i.com.com/cnwk.1d/Ads/common/advertisement_pointrt_sm.gif" width="30" height="13" alt="advertisement" />
+</span>
+<span class="searchbar-text">
+<strong>
+<a href="http://adlog.com.com/adlog/c/r=11652&amp;s=927864&amp;o=11455%253a&amp;h=cn&amp;p=2&amp;b=1&amp;l=en_US&amp;site=1&amp;pt=2709&amp;nd=11455&amp;pid=&amp;cid=88&amp;pp=300&amp;e=3&amp;rqid=00c18-ad-e14:4BFDD0BF5C4C24&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=216%2e160%2e137%2e111&amp;pg=OFHOowoPjAMAAGV-tZ8AAABW&amp;t=2010.05.27.09.43.16/http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=1414081&PluID=0&ord=2010.05.27.09.43.16" target="_blank">
+<img src="http://adlog.com.com/adlog/i/r=11652&amp;s=927864&amp;o=11455%253a&amp;h=cn&amp;p=2&amp;b=1&amp;l=en_US&amp;site=1&amp;pt=2709&amp;nd=11455&amp;pid=&amp;cid=88&amp;pp=300&amp;e=3&amp;rqid=00c18-ad-e14:4BFDD0BF5C4C24&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=216%2e160%2e137%2e111&amp;dvar=dvar%255fversion%253d2008&amp;ucat_rsi=%2526&amp;pg=OFHOowoPjAMAAGV-tZ8AAABW&amp;t=2010.05.27.09.43.16/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif" height="0" width="0" border="0" alt="" />FedEx Kinko&#146;s is now FedEx Office.</a>
+</strong>
+</span>
+<img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=19&mc=imp&pli=1414081&PluID=0&ord=2010.05.27.09.43.16&rtu=-1" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px" />
+</div>
+<!-- MAC ad --> </div>
+<!-- /headerContents -->
+</div>
+<!-- /rb_header --> <div id="rb_content"> <div class="breadcrumbWrap"> <ul class="breadcrumb"> <li>
+<a href="/">Home</a>
+</li> <li>CNET Podcast Central</li> </ul>
+</div> <div id="contentMain"> <div id="contentBody"> <div id="featuredSection"> <img src="http://i.i.com.com/cnwk.1d/i/pod/cast/podcastHdr.gif" /> <h2 class="first">Get all of the CNET podcasts, all in one place</h2> <p>Welcome to CNET Podcast Central, the home for all of CNET's podcasts. From Buzz Out Loud, a daily digest of tech news that's relevant, hard-hitting, or just plain goofy, to help and tips, to the latest in auto tech, you'll find it all here.</p> <div id="featuredPodcast"> <strong>Featured podcast:</strong> <h3>
+<a href="http://news.cnet.com/8301-19518_3-20006097-238.html">One-on-one with Facebook CEO Mark Zuckerberg</a>
+</h3> <div id="morelink"> <a class="readMore" href="http://news.cnet.com/safe-and-secure/">More Safe and Secure Podcasts </a> </div> </div> <div id="findPodcast"> <form action=""> <select id="findShow" name="target" onchange="window.location=document.getElementById('findShow').options[document.getElementById('findShow').selectedIndex].value;"> <option selected="selected" value="#">Select One</option> <option value="#TheAppleByte">The Apple Byte</option> <option value="#BuzzOutLoud">Buzz Out Loud</option> <option value="#BuzzReport">Buzz Report</option> <option value="#CarTech">Car Tech</option> <option value="#CarTechLive">Car Tech Live</option> <option value="#CNETConversations">CNET Conversations</option> <option value="#CNETNewsVideo">CNET News Video</option> <option value="#CNETTechReview">CNET Tech Review</option> <option value="#CNETtotheRescue">CNET to the Rescue</option> <option value="#CNET'sTop5">CNET's Top 5</option> <option value="#Crave">Crave</option> <option value="#DialedIn">Dialed In</option> <option value="#DigitalCity">Digital City</option> <option value="#TheDigitalHome">The Digital Home</option> <option value="#FirstLook">First Look</option> <option value="#FortheRecord">For the Record</option> <option value="#The404">The 404</option> <option value="#Gadgettes">Gadgettes</option> <option value="#TheGreenShow">The Green Show</option> <option value="#Hacks">Hacks</option> <option value="#HowTo">How To</option> <option value="#IndecentExposure">Indecent Exposure</option> <option value="#InsideCNETLabs">Inside CNET Labs</option> <option value="#Loaded">Loaded</option> <option value="#preGAME">preGAME</option> <option value="#Prizefight">Prizefight</option> <option value="#Reporters'Roundtable">Reporters' Roundtable</option> <option value="#TapThatApp">Tap That App</option> <option value="#AllAudioPodcasts">All Audio Podcasts</option> <option value="#AllVideoPodcasts">All Video Podcasts</option> </select> </form> </div> </div> <div id="podcastMain"> <div id="featureNavigation"> <dl> <dd>
+<a href="/podcasts/" class="nav_on">all podcasts</a>
+</dd> <dd>
+<a href="/audio-podcasts/">audio podcasts</a>
+</dd> <dd>
+<a href="/video-podcasts/">video podcasts</a>
+</dd> <dd>
+<a href="/news-podcasts/">news podcasts</a>
+</dd> <dd>
+<a href="/reviews-podcasts/">reviews podcasts</a>
+</dd> <dd class="last">
+<a href="/tech-help-podcasts/">how-to podcasts</a>
+</dd> </dl>
+</div> <div class="podcastTab"> <h2 class="first">
+<a name="TheAppleByte">
+</a>
+<a href="http://cnettv.cnet.com/?name=The Apple Byte&type=node&value=19029" target="_blank">The Apple Byte</a>
+</h2> <div class="desc"> <a href="http://cnettv.cnet.com/?name=The Apple Byte&amp;type=node&amp;value=19029" target="_blank">The Apple Byte</a> covers the fact, the fiction, and everything inside the world of Apple. Brian Tong talks about the latest Apple announcements, the rumors, and he'll break down the good and bad of Apple with an edgy style. <p class="hosts">Hosted by: <a href="/profile/Brian.Tong/">Brian Tong</a> </p> </div> <p>
+<strong>Subscribe to The Apple Byte</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_applebyte_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294367635" >iTunes</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294367636" >iTunes HD</a> </div> <div class="rss"> <a href="http://applebytepodcast.cnettv.com/" >RSS</a> <a href="http://applebytehdpodcast.cnettv.com/" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="BuzzOutLoud">
+</a>
+<a href="/buzz-out-loud-podcast/" target="_blank">Buzz Out Loud</a>
+</h2> <div class="desc"> <a href="/buzz-out-loud-podcast/">Buzz Out Loud</a> features Molly Wood, Rafe Needleman and producer Jason Howell, along with CNET's top tech experts reviewing the day's tech news. Each episode, five times a week, the crew analyzes, interprets, and argues about what all this technology means and what it's doing to us. Fans can join in the show by calling, <a href="mailto:buzz@cnet.com">e-mailing</a>, or commenting on the <a href="/buzz-out-loud-podcast/">blog</a>. <p class="hosts">Hosted by: <a href="/profile/mollywood/">Molly Wood</a>, <a href="/profile/rafe/">Rafe Needleman</a>, and <a href="/profile/raygun01/">Jason Howell</a> </p> </div> <p>
+<strong>Subscribe to Buzz Out Loud</strong>
+</p> <div class="subscribe" style="background: transparent url(http://www.cnet.com/i/pod/cast/pc_buzz_out_loud_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330792" class="dklink" >iTunes (audio)</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=280434959" class="dklink" >iTunes (video)</a> </div> <div class="rss"> <a href="http://buzzoutloudpodcast.cnet.com/" class="dklink" >RSS (audio)</a> <a href="http://bolvideopodcast.cnettv.com/" class="dklink" >RSS (video)</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="BuzzReport">
+</a>
+<a href="http://cnettv.cnet.com/?name=The Buzz Report&type=node&value=12578" target="_blank">Buzz Report</a>
+</h2> <div class="desc"> Molly Wood uses her expertise and passion for the world of technology for ruthless analysis as host of the weekly <a href="http://cnettv.cnet.com/?name=The Buzz Report&amp;type=node&amp;value=12578" target="blank">Buzz Report</a>. Molly provides a fresh and funny perspective on the latest in consumer electronic products to hit the market, as well as commentary on the most buzz-worthy technology news. <p class="hosts">Hosted by: <a href="/profile/mollywood/">Molly Wood</a> </p> </div> <p>
+<strong>Subscribe to Buzz Report</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_buzzreport_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=104046050" >iTunes</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292025523" >iTunes HD</a> </div> <div class="rss"> <a href="http://buzzreportpodcast.cnettv.com/" >RSS</a> <a href="http://buzzreporthdpodcast.cnettv.com/" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="CarTech">
+</a>
+<a href="http://cnettv.cnet.com/?name=Car Tech&type=node&value=10863,10866,11443,3424,3425,3426,3430,3490,6729,6728" target="_blank">Car Tech</a>
+</h2> <div class="desc"> Each episode of <a href="http://cnettv.cnet.com/?name=Car Tech&amp;type=node&amp;value=10863,10866,11443,3424,3425,3426,3430,3490,6729,6728" target="_blank">Car Tech Video</a> has car nut and tech afficianado Brian Cooley taking you for an inside look at a new car and it's cabin tech, as well as the technology that lies underneath the hood. <p class="hosts">Hosted by: <a href="/profile/briancnet/">Brian Cooley</a> </p> </div> <p>
+<strong>Subscribe to Car Tech</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_car_tech_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=273685776" >iTunes</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292025793" >iTunes HD</a> </div> <div class="rss"> <a href="http://cartechpodcast.cnettv.com/" >RSS</a> <a href="http://cartechhdpodcast.cnettv.com/" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="CarTechLive">
+</a>
+<a href="/car-tech-podcast/" target="_blank">Car Tech Live</a>
+</h2> <div class="desc"> Every Friday, Brian runs down the latest news in the ever-evolving integration between cars and technology. Meanwhile, Wayne and Antuan drive the newest car in the CNET barn, going over its cabin tech with a fine-toothed comb, checking out off-the-line acceleration, and trying not to crash. <p class="hosts">Hosted by: <a href="/profile/briancnet/">Brian Cooley</a>, <a href="/profile/bimmer_driver/">Wayne Cunningham</a>, and <a href="/profile/antuan.goodwin/">Antuan Goodwin</a> </p> </div> <p>
+<strong>Subscribe to Car Tech Live</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_cartechlive_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=81541696" >iTunes (audio)</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=332602296" >iTunes (video)</a> </div> <div class="rss"> <a href="http://cartechpodcast.cnet.com/" >RSS (audio)</a> <a href="http://cartechvideopodcast.cnettv.com/" >RSS (video)</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="CNETConversations">
+</a>
+<a href="http://cnettv.cnet.com/?name=CNET Conversations&type=node&value=31009" target="_blank">CNET Conversations</a>
+</h2> <div class="desc"> You ask the questions, CNET gets the answers. CNET Conversations is a series of video interviews with tech luminaries, and CNET users will be submitting the questions. <p class="hosts">Hosted by: <a href="/profile/mollywood/">Molly Wood</a> </p> </div> <p>
+<strong>Subscribe to CNET Conversations</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_conversations_300x80.jpeg);"> <div class="iTunes"> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=336375675" >iTunes</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=336375904" >iTunes HD</a> </div> <div class="rss"> <a href="http://conversationspodcast.cnettv.com/" >RSS</a> <a href="http://conversationshdpodcast.cnettv.com/" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="CNETNewsVideo">
+</a>
+<a href="http://cnettv.cnet.com/?name=CNET News&type=node&value=11430" target="_blank">CNET News Video</a>
+</h2> <div class="desc"> From industry news to techy trends to newsmaker interviews, no technology angle is too small or obscure to explore. Our reporters take you there in this video series that aims to bring you even closer to the tech news you find daily on CNET News. <p class="hosts">Hosted by: <a href="/cnet-editors/">CNET Editors</a> </p> </div> <p>
+<strong>Subscribe to CNET News Video</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_cnet_news_video_300x80.jpg);"> <div class="iTunes"> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=273685772" >iTunes</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292026740" >iTunes HD</a> </div> <div class="rss"> <a href="http://cnetnewspodcast.cnettv.com" >RSS</a> <a href="http://cnetnewshdpodcast.cnettv.com" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="CNETTechReview">
+</a>
+<a href="http://cnettv.cnet.com/?name=CNET Tech Review&type=node&value=31632" target="_blank">CNET Tech Review</a>
+</h2> <div class="desc"> CNET Tech Review rounds up the hottest new videos from CNET TV each week. From First Looks of big products, to Prizefights, to How-To videos, Molly Wood brings you the good, the bad and the bottom line as well as what's happening in the tech world. <p class="hosts">Hosted by: <a href="/profile/mollywood/">Molly Wood</a> </p> </div> <p>
+<strong>Subscribe to CNET Tech Review</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_cnetTechReview_300x80.jpg);"> <div class="iTunes"> <a href="http://itunes.apple.com/us/podcast/cnet-tech-review-sd/id367084797" >iTunes</a> <a href="http://itunes.apple.com/us/podcast/cnet-tech-review-hd/id367084839" >iTunes HD</a> </div> <div class="rss"> <a href="http://techreviewpodcast.cnettv.com" >RSS</a> <a href="http://techreviewhdpodcast.cnettv.com" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="CNETtotheRescue">
+</a>
+<a href="/rescue/" target="_blank">CNET to the Rescue</a>
+</h2> <div class="desc"> You deserve to get the most out of the technology you use. The CNET to the Rescue podcast gives you the tips and tricks to master the products you own and get the best deals on new technology. Every Wednesday, Rafe and Josh take on new topics and answer your e-mailed and live phone questions. <p class="hosts">Hosted by: <a href="/profile/rafe/">Rafe Needleman</a> and <a href="/profile/Josh.Lowensohn/">Josh Lowensohn</a> </p> </div> <p>
+<strong>Subscribe to CNET to the Rescue</strong>
+</p> <div class="subscribe" style="background: transparent url(http://www.cnet.com/i/pod/cast/CNETRescue_300x80.jpg);"> <div class="iTunes"> <a href="http://itunes.apple.com/us/podcast/cnet-to-the-rescue-mp3/id150226053" >iTunes (audio)</a> <a href="http://itunes.apple.com/us/podcast/cnet-to-the-rescue-video-sd/id310928729" >iTunes (video)</a> </div> <div class="rss"> <a href="http://rescuepodcast.cnet.com/" >RSS (audio)</a> <a href="http://rescuesdpodcast.cnettv.com/" >RSS (video)</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="CNET'sTop5">
+</a>
+<a href="http://cnettv.cnet.com/?name=Top 5&type=node&value=13489" target="_blank">CNET's Top 5</a>
+</h2> <div class="desc"> Check out the best and worst of technology as counted down by CNET TV's Tom Merritt, from the hottest gadgets, to the worst downloads, and much more. Watch each week to find out what's No. 1. <p class="hosts">Hosted by: <a href="/profile/acedtect/">Tom Merritt</a> </p> </div> <p>
+<strong>Subscribe to CNET's Top 5</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_cnet_top_5_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=273410644" class="dklink" >iTunes</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292027206" class="dklink" >iTunes HD</a> </div> <div class="rss"> <a href="http://topfivepodcast.cnettv.com/" class="dklink" >RSS</a> <a href="http://topfivehdpodcast.cnettv.com/" class="dklink" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="Crave">
+</a>
+<a href="http://crave.cnet.com/" target="_blank">Crave</a>
+</h2> <div class="desc"> The name says it all: Crave covers the coolest, hottest and sexiest digital gadgetry that you *must* have. Whether its the thinnest phone, the latest iPod or the first billion-pixel camera, Donald Bell and Jasmine France will talk about it on Crave. <p class="hosts">Hosted by: <a href="/profile/Jasmineflower/">Jasmine France</a> and <a href="/profile/audiodonald/">Donald Bell</a> </p> </div> <p>
+<strong>Subscribe to Crave</strong>
+</p> <div class="subscribe" style="background: transparent url(http://www.cnet.com/i/pod/cast/pc_crave_300x80.jpg);"> <div class="iTunes"> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=372425360" >iTunes</a> </div> <div class="rss"> <a href="http://cravepodcast.cnettv.com" >RSS</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="DialedIn">
+</a>
+<a href="/dialed-in-podcast/" target="_blank">Dialed In</a>
+</h2> <div class="desc"> Whether it's for just making calls or for cramming your entire life into one device, the ubiquitous cell phone continues to evolve. Each Wednesday cell phone editors Kent, Bonnie, and Nicole meet to discuss the latest cell phone news and answer your questions about what's in, what's out, and what's coming next. <p class="hosts">Hosted by: <a href="/profile/KentGerman/">Kent German</a>, <a href="/profile/bonnie.cha/">Bonnie Cha</a>, and <a href="/profile/Nicole+Lee/">Nicole Lee</a> </p> </div> <p>
+<strong>Subscribe to Dialed In</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_dialed_in_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=265259700" class="dklink" >iTunes (audio)</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=317482235" class="dklink" >iTunes (video)</a> </div> <div class="rss"> <a href="http://dialedinpodcast.cnet.com/" class="dklink" >RSS (audio)</a> <a href="http://dialedinvideopodcast.cnettv.com/" class="dklink" >RSS (video)</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="DigitalCity">
+</a>
+<a href="/digital-city-podcast/" target="_blank">Digital City</a>
+</h2> <div class="desc"> Live from New York, CNET's Dan Ackerman, Julie Rivera, Joseph Kaminski, and Scott Stein explore the impact of new technology on city life and urban environments, from municipal Wi-Fi, to high-tech crime, to tricks for cutting the line at the Apple Store. <p class="hosts">Hosted by: <a href="/profile/Dan_Ackerman/">Dan Ackerman</a>, <a href="/digital-city-podcast/?authorId=9719364">Julie Rivera</a>, <a href="/digital-city-podcast/?authorId=9719363">Joseph Kaminski</a>, and <a href="/profile/ScottStein8">Scott Stein</a> </p> </div> <p>
+<strong>Subscribe to Digital City</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_digital_city_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292674315" class="dklink" >iTunes (audio)</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=317469333" class="dklink" >iTunes (video)</a> </div> <div class="rss"> <a href="http://digitalcitypodcast.cnet.com/" class="dklink" >RSS (audio)</a> <a href="http://digitalcityvideopodcast.cnettv.com/" class="dklink" >RSS (video)</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="TheDigitalHome">
+</a>
+<a href="/digitalhome/" target="_blank">The Digital Home</a>
+</h2> <div class="desc"> Have you ever wanted a no-nonsense discussion on what really is going on with all the tech topics related to your Digital Home? If so, join Don Reisinger as he brings you the same biting commentary you've come to expect from his <a href="/digitalhome/" target="_blank">Digital Home</a> blog in all its audio glory. <p class="hosts">Hosted by: <a href="http://news.cnet.com/digitalhome/?authorId=9727958">Don Reisinger</a> </p> </div> <p>
+<strong>Subscribe to The Digital Home</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_digital_home_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=273653076" >iTunes</a> </div> <div class="rss"> <a href="http://thedigitalhomepodcast.cnet.com/" >RSS</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="FirstLook">
+</a>
+<a href="http://cnettv.cnet.com/?name=First Look&type=node&value=10619" target="_blank">First Look</a>
+</h2> <div class="desc"> Get the first look at the hottest products from our expert CNET editors. They'll dive in deep and cover all of the hot features, as well as the flaws, of the latest tech gadgets across every product category. <p class="hosts">Hosted by: <a href="/cnet-editors/">CNET Editors</a> </p> </div> <p>
+<strong>Subscribe to First Look</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_firstlook_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=323395318" >iTunes</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=323395608" >iTunes HD</a> </div> <div class="rss"> <a href="http://firstlookpodcast.cnettv.com" >RSS</a> <a href="http://firstlookhdpodcast.cnettv.com" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="FortheRecord">
+</a>
+<a href="http://news.cnet.com/for-the-record-podcast/" target="_blank">For the Record</a>
+</h2> <div class="desc"> CNET blogger and CBS News Tech analyst Larry Magid talks with tech insiders about products and issues ranging from an inside look at the newest tech products to a critical analysis of tech policy issues. Drawing on company reps, analysts, CNET beat reporters and other experts, Magid gets the answers you need to hear. <p class="hosts">Hosted by: <a href="/profile/larrymagid/">Larry Magid</a> </p> </div> <p>
+<strong>Subscribe to For the Record</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_fortherecord_300x80.jpg);"> <div class="iTunes"> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=307832602" class="dklink" >iTunes</a> </div> <div class="rss"> <a href="http://magidpodcast.cnet.com/" class="dklink" >RSS</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="The404">
+</a>
+<a href="/the-404-podcast/" target="_blank">The 404</a>
+</h2> <div class="desc"> <a href="/the-404-podcast/" target="_blank">The 404</a> is where...well...you won't find much of anything to help you stay connected to the latest news. You will, however, find Jeff Bakalar, Wilson Tang, and Justin Yu, all of whom are obsessed with talking about music, movies, games, and anything else in pop culture that uses technology. <p class="hosts">Hosted by: <a href="/profile/jbakalar/">Jeff Bakalar</a>, <a href="/profile/rhapsodyartist/">Wilson G. Tang</a>, and <a href="/profile/justin.yu/">Justin Yu</a> </p> </div> <p>
+<strong>Subscribe to The 404</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_the404_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=272216090" >iTunes (audio)</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=315423594" >iTunes (video)</a> </div> <div class="rss"> <a href="http://the404podcast.cnet.com/" >RSS (audio)</a> <a href="http://the404videopodcast.cnettv.com/" >RSS (video)</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="Gadgettes">
+</a>
+<a href="http://gadgettes.cnet.com/" target="_blank">Gadgettes</a>
+</h2> <div class="desc"> Every Friday, girl gurus Kelly and Molly, alongside producer Jason give you the latest on hot gadgets, pop-culture tech, and shopping advice. The Gadgettes cover a new theme each week, as well as viciously attack the tooliest of tools, the hottest of asian gadgets and an assortment of helpless little pink tech toys that never deserved to see the light of day. <p class="hosts">Hosted by: <a href="/profile/mollywood/">Molly Wood</a>, <a href="http://my.cnet.com/community/kellymorrison/">Kelly Morrison</a>, and <a href="/profile/raygun01/">Jason Howell</a> </p> </div> <p>
+<strong>Subscribe to Gadgettes</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_gadgettes_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=157218903" >iTunes (audio)</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=309811691" >iTunes (video)</a> </div> <div class="rss"> <a href="http://gadgettespodcast.cnet.com/" >RSS (audio)</a> <a href="http://gadgettesvideopodcast.cnettv.com/" >RSS (video)</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="TheGreenShow">
+</a>
+<a href="http://cnettv.cnet.com/?type=node&value=19744" target="_blank">The Green Show</a>
+</h2> <div class="desc"> The Green Show highlights the latest in green technology, covering news, consumer electronics, and tips focused on energy efficiency. Mark Licea gives insight to being environmentally responsible and gathers the latest results of CNET's lab testing. <p class="hosts">Hosted by: <a href="">Mark Licea</a> </p> </div> <p>
+<strong>Subscribe to The Green Show</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_greenshow_300x80.jpg);"> <div class="iTunes"> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=313722065" class="dklink" >iTunes</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=313722074" class="dklink" >iTunes HD</a> </div> <div class="rss"> <a href="http://greenshowpodcast.cnettv.com/" class="dklink" >RSS</a> <a href="http://greenshowhdpodcast.cnettv.com/" class="dklink" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="Hacks">
+</a>
+<a href="http://cnettv.cnet.com/?type=node&value=19743" target="_blank">Hacks</a>
+</h2> <div class="desc"> If technology doesn't do what you want, then hack it. CNET hacks gets under the hood of your favorite gadgets and tech to show you how to do things you might not have thought possible. <p class="hosts">Hosted by: <a href="/1991-13403_1-6722517-2.html">CNET Editors</a> </p> </div> <p>
+<strong>Subscribe to Hacks</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_hacks_300x80.jpg);"> <div class="iTunes"> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=315333678" class="dklink" >iTunes</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=315333741" class="dklink" >iTunes HD</a> </div> <div class="rss"> <a href="http://hackspodcast.cnettv.com/" class="dklink" >RSS</a> <a href="http://hackshdpodcast.cnettv.com/" class="dklink" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="HowTo">
+</a>
+<a href="http://cnettv.cnet.com/?type=node&value=19742" target="_blank">How To</a>
+</h2> <div class="desc"> See all the steps for solving tech problems or just getting more out of What you're using. Whether it's a computer tip, tweaks and tricks for your DVR, or ways to get more out of your smartphone, you'll find it in CNET How to. Each video is helpfully rated easy, medium, difficult or supergeek. <p class="hosts">Hosted by: <a href="/1991-13403_1-6722517-2.html">CNET Editors</a> </p> </div> <p>
+<strong>Subscribe to How To</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_howto_300x80.jpg);"> <div class="iTunes"> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=313417427" class="dklink" >iTunes</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=313417425" class="dklink" >iTunes HD</a> </div> <div class="rss"> <a href="http://howtopodcast.cnettv.com/" class="dklink" >RSS</a> <a href="http://howtohdpodcast.cnettv.com/" class="dklink" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="IndecentExposure">
+</a>
+<a href="/indecent-exposure-podcast/" target="_blank">Indecent Exposure</a>
+</h2> <div class="desc"> Kick back and listen to Lori and Matt's weekly chat about what's new, interesting, useful--and occasionally irritating--in the world of digital photography and imaging. Got questions? <a href="mailto:indecentexposure@cnet.com">Drop us a line</a> and be a part of the show. <p class="hosts">Hosted by: <a href="/profile/lgrunin/">Lori Grunin</a> and <a href="/profile/mattfitzgerald--2008/">Matt Fitzgerald</a> </p> </div> <p>
+<strong>Subscribe to Indecent Exposure</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_indecentexposure_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=278936192" class="dklink" >iTunes</a> </div> <div class="rss"> <a href="http://indecentexposurepodcast.cnet.com/" class="dklink" >RSS</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="InsideCNETLabs">
+</a>
+<a href="/inside-cnet-labs/" target="_blank">Inside CNET Labs</a>
+</h2> <div class="desc"> <a href="/inside-cnet-labs/" target="_blank">Inside CNET Labs</a> takes you inside CNET's editorial process from a performance testing perspective, offering a glimpse of the good, the bad, and the ugly. You'll also go inside the heads of CNET Labs' Eric Franklin and Dong Ngo as they offer opinionated discussion on subjects ranging from personal insecurities to whether the existence of time can be proven. <p class="hosts">Hosted by: <a href="/profile/efranklin/">Eric Franklin</a> and <a href="/profile/ngodong/">Dong Ngo</a> </p> </div> <p>
+<strong>Subscribe to Inside CNET Labs</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_insideCNETlabs_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=283969553" >iTunes</a> </div> <div class="rss"> <a href="http://insidecnetlabspodcast.cnet.com/" >RSS</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="Loaded">
+</a>
+<a href="http://cnettv.cnet.com/?name=Loaded&type=node&value=13991" target="_blank">Loaded</a>
+</h2> <div class="desc"> Start your day with <a href="http://cnettv.cnet.com/?name=Loaded&amp;type=node&amp;value=13991" target="_blank">Loaded</a>, CNET's daily technology news video show. Host Natali Del Conte discusses the day's news hot off the Interwebs and takes technology to the streets of New York City to see it at work. <p class="hosts">Hosted by: <a href="/profile/natalidelconte/">Natali Del Conte</a> </p> </div> <p>
+<strong>Subscribe to Loaded</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_loaded_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=273587908" >iTunes</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292027393" >iTunes HD</a> </div> <div class="rss"> <a href="http://loadedpodcast.cnettv.com/" >RSS</a> <a href="http://loadedhdpodcast.cnettv.com/" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="preGAME">
+</a>
+<a href="http://cnettv.cnet.com/live/pregame/" target="_blank">preGAME</a>
+</h2> <div class="desc"> preGAME gives you all of the week's gaming news and highlights you care about. Hosts Jeff Bakalar and Mark Licea bring you live in-house demos of the hottest games a week before they're released and give you a sneak peek at what's to come with live commentary, reactions, and interviews with the people behind the games. <p class="hosts">Hosted by: <a href="/profile/jbakalar/">Jeff Bakalar</a> and <a href="">Mark Licea</a> </p> </div> <p>
+<strong>Subscribe to preGAME</strong>
+</p> <div class="subscribe" style="background: transparent url(http://www.cnet.com/i/pod/cast/pc_pregame_300x80.jpg);"> <div class="iTunes"> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=353058710" >iTunes</a> </div> <div class="rss"> <a href="http://pregamepodcast.cnettv.com" >RSS</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="Prizefight">
+</a>
+<a href="http://cnettv.cnet.com/?name=Prizefight&type=node&value=13484" target="_blank">Prizefight</a>
+</h2> <div class="desc"> It's the ultimate face-off between tech's top dogs in this five-round, winner-takes-all bout. Watch every blow-by-blow, where you'll find the hottest cell phones, digital audio players, cameras, and more, battling it out for <a href="http://cnettv.cnet.com/?name=Prizefight&amp;type=node&amp;value=13484" target="_blank">Prizefight</a> supremacy. <p class="hosts">Hosted by: <a href="/profile/Brian.Tong/">Brian Tong</a> </p> </div> <p>
+<strong>Subscribe to Prizefight</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_prizefight_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=276979569" >iTunes</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292129648" >iTunes HD</a> </div> <div class="rss"> <a href="http://prizefightpodcast.cnettv.com/" >RSS</a> <a href="http://prizefighthdpodcast.cnettv.com/" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="Reporters'Roundtable">
+</a>
+<a href="/reporters-roundtable-podcast/" target="_blank">Reporters' Roundtable</a>
+</h2> <div class="desc"> Each week, Rafe Needleman rounds up a group of CNET News and Reviews editors to discuss in detail the biggest tech issues of the week, and predict the outcomes of ongoing technology market battles. <p class="hosts">Hosted by: <a href="/profile/rafe/">Rafe Needleman</a> </p> </div> <p>
+<strong>Subscribe to Reporters' Roundtable</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_reporters_roundtable_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=331783648" >iTunes (audio)</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=331786334" >iTunes (video)</a> </div> <div class="rss"> <a href="http://roundtablepodcast.cnet.com" >RSS (audio)</a> <a href="http://roundtablevideopodcast.cnettv.com/" >RSS (video)</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="TapThatApp">
+</a>
+<a href="http://cnettv.cnet.com/?name=Tap That App&type=node&value=31633" target="_blank">Tap That App</a>
+</h2> <div class="desc"> Tap That App focuses on all the hottest mobile applications for all platforms. But the most important question is, "Will you tap that?" <p class="hosts">Hosted by: <a href="/profile/Brian.Tong/">Brian Tong</a> </p> </div> <p>
+<strong>Subscribe to Tap That App</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_tapThatApp_300x80.jpg);"> <div class="iTunes"> <a href="http://itunes.apple.com/us/podcast/tap-that-app-sd/id367076735" >iTunes</a> <a href="http://itunes.apple.com/us/podcast/tap-that-app-hd/id367077067" >iTunes HD</a> </div> <div class="rss"> <a href="http://tapthatapppodcast.cnettv.com" >RSS</a> <a href="http://tapthatapphdpodcast.cnettv.com" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="AllAudioPodcasts">
+</a>
+<a href="/audio-podcasts/" target="_blank">All Audio Podcasts</a>
+</h2> <div class="desc"> Get your fix of all audio podcast feeds currently offered through podcast.cnet.com in one place. Right here! <p class="hosts">Hosted by: <a href="/cnet-editors/">CNET Editors</a> </p> </div> <p>
+<strong>Subscribe to All Audio Podcasts</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_all_audio_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=264659321" >iTunes</a> </div> <div class="rss"> <a href="http://audiopodcasts.cnet.com/" >RSS</a> </div> </div> </div>
+<!--podcastTab--> <div class="podcastTab"> <h2 class="first">
+<a name="AllVideoPodcasts">
+</a>
+<a href="/video-podcasts/" target="_blank">All Video Podcasts</a>
+</h2> <div class="desc"> Get your fix of all video podcast feeds currently offered through podcast.cnet.com in one place. Right here! <p class="hosts">Hosted by: <a href="/cnet-editors/">CNET Editors</a> </p> </div> <p>
+<strong>Subscribe to All Video Podcasts</strong>
+</p> <div class="subscribe" style="background: transparent url(http://i.i.com.com/cnwk.1d/i/pod/cast/pc_all_video_300x80.jpg);"> <div class="iTunes"> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=264659389" class="dklink" >iTunes</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292130379" class="dklink" >iTunes HD</a> </div> <div class="rss"> <a href="http://videopodcasts.cnet.com/" class="dklink" >RSS</a> <a href="http://hdvideopodcasts.cnettv.com/" class="dklink" >RSS HD</a> </div> </div> </div>
+<!--podcastTab--> </div> </div>
+<!-- /contentBody --> <div id="contentAux"> <!-- MAC T f.f.10.11 -->
+<!-- MAC [r20091112-1054-msm-v1-13-11-DynamicHttpFetch:1.13.11] c18-rb-tron-xw4.cnet.com::1335986528 2010.05.27.09.43.16 -->
+<div id="topMPU" class="mpu">
+<div style="text-align:center">
+<a href="http://www.cbsinteractive.com/adfeedback/?REDIRECT=TRUE&RGROUP=15177&amp;SEGMENTID=933296&amp;LINEID=356786&amp;SP=16&amp;ADVERTISERID=10978" target="new">
+<img src="http://i.i.com.com/cnwk.1d/Ads/common/ad_feedback_120x10_trans.gif" width="120" height="10" border="0" alt="advertisement" />
+</a>
+<br />
+</div>
+<a href="http://adlog.com.com/adlog/c/r=15177&amp;s=933296&amp;o=11455%253a&amp;h=cn&amp;p=2&amp;b=1&amp;l=en_US&amp;site=1&amp;pt=2709&amp;nd=11455&amp;pid=&amp;cid=88&amp;pp=100&amp;e=3&amp;rqid=00c18-ad-e17:4BFE2DDFDDFFB&amp;orh=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=216%2e160%2e137%2e111&amp;pg=OFHOowoPjAMAAGV-tZ8AAABW&amp;t=2010.05.27.09.43.16/http://www.squarespace.com/" target="_blank">
+<img src="http://adlog.com.com/adlog/i/r=15177&amp;s=933296&amp;o=11455%253a&amp;h=cn&amp;p=2&amp;b=1&amp;l=en_US&amp;site=1&amp;pt=2709&amp;nd=11455&amp;pid=&amp;cid=88&amp;pp=100&amp;e=3&amp;rqid=00c18-ad-e17:4BFE2DDFDDFFB&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=216%2e160%2e137%2e111&amp;dvar=dvar%255fversion%253d2008&amp;ucat_rsi=%2526&amp;pg=OFHOowoPjAMAAGV-tZ8AAABW&amp;t=2010.05.27.09.43.16/http://i.i.com.com/cnwk.1d/Ads/10978/10/cbs-300x250.jpg" height="250" width="300" alt="Click Here" border="0" />
+</a>
+</div>
+<!-- MAC ad --> <div class="whatIsPodcast"> <h2>What is a podcast?</h2> <p>In a nutshell, podcasting is the publishing of media files--audio and video--so that they are available for download to anybody who subscribes to them via an RSS feed.</p> <h2 class="blogTopicsHed">Audio podcast feeds</h2> <div class="blogTopics"> <ul> <li> <a href="http://buzzoutloudpodcast.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330792" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=39fbc6a1-9353-43ea-8e89-254f5feca48b&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#BuzzOutLoud">Buzz Out Loud</a> </li> <li> <a href="http://cartechpodcast.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=81541696" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=719fce09-b937-4b65-bd09-ba7ad4c6e25e&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#CarTechLive">Car Tech Live</a> </li> <li> <a href="http://rescuepodcast.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/us/podcast/cnet-to-the-rescue-mp3/id150226053" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=ceb3056c-cc75-456f-ba3c-fd73f60b8135&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#CNETtotheRescue">CNET to the Rescue</a> </li> <li> <a href="http://dialedinpodcast.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=265259700" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=42a39bf4-dc9e-4ff2-b3ad-049b087eeb97&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#DialedIn">Dialed In</a> </li> <li> <a href="http://digitalcitypodcast.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292674315" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=e980926a-52e2-4ec8-8777-ced4602ff89e&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#DigitalCity">Digital City</a> </li> <li> <a href="http://thedigitalhomepodcast.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=273653076" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=6fc3d788-b9be-4ce9-a96c-ff5dfa9f98a6&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#TheDigitalHome">The Digital Home</a> </li> <li> <a href="http://magidpodcast.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=307832602" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=0db9a34f-af5c-48d1-8365-52b0ad693d57&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#FortheRecord">For the Record</a> </li> <li> <a href="http://the404podcast.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=272216090" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=0316ea9d-7396-48cf-bb03-1d3dd8953d52&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#The404">The 404</a> </li> <li> <a href="http://gadgettespodcast.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=157218903" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=a3d74364-3540-452d-a1c9-6dbd79903e0e&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#Gadgettes">Gadgettes</a> </li> <li> <a href="http://indecentexposurepodcast.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=278936192" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=4a7f17d7-ea1e-47b2-9d2c-a42bf8cf1c18&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#IndecentExposure">Indecent Exposure</a> </li> <li> <a href="http://insidecnetlabspodcast.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=283969553" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=fede819f-4f0f-4e60-b8f4-c5dc1cf2dc4e&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#InsideCNETLabs">Inside CNET Labs</a> </li> <li> <a href="http://roundtablepodcast.cnet.com" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=331783648" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=3f6200ec-844a-443e-87e8-d9b9e2612615&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#Reporters'Roundtable">Reporters' Roundtable</a> </li> <li> <a href="http://audiopodcasts.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=264659321" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=719796eb-40a0-4436-b960-e44889825f2a&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#AllAudioPodcasts">All Audio Podcasts</a> </li> </ul> </div> <h2 class="blogTopicsHed">Video podcast feeds</h2> <div class="blogTopics"> <ul> <li> <a href="http://applebytepodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294367635" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=649b1476-356e-49ef-924c-d3eebaf6c750&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#TheAppleByte">The Apple Byte</a> </li> <li> <a href="http://bolvideopodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=280434959" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=4a15f703-da0f-4a47-bd30-f5044e422549&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#BuzzOutLoud">Buzz Out Loud</a> </li> <li> <a href="http://buzzreportpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=104046050" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=7365bab5-0a06-4379-93c0-fdb7c95f38fc&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#BuzzReport">Buzz Report</a> </li> <li> <a href="http://cartechpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=273685776" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=e7615772-d4f8-4547-8538-888966e0e626&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#CarTech">Car Tech</a> </li> <li> <a href="http://cartechvideopodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=332602296" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=6be13cca-63bd-436a-a764-69c72702f33c&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#CarTechLive">Car Tech Live</a> </li> <li> <a href="http://conversationspodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=336375675" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=6125f525-e84b-4d9a-b4fc-145a0c4cb43b&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#CNETConversations">CNET Conversations</a> </li> <li> <a href="http://techreviewpodcast.cnettv.com" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/us/podcast/cnet-tech-review-sd/id367084797" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=be5ed134-b8aa-46cd-8625-ac597c982756&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#CNETTechReview">CNET Tech Review</a> </li> <li> <a href="http://rescuesdpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/us/podcast/cnet-to-the-rescue-video-sd/id310928729" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=6195c3b2-0a2f-45c7-a39a-adddece312e5&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#CNETtotheRescue">CNET to the Rescue</a> </li> <li> <a href="http://topfivepodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=273410644" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=d4d328fe-bc99-4fb3-a7ef-c660ac5262b6&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#CNET'sTop5">CNET's Top 5</a> </li> <li> <a href="http://cravepodcast.cnettv.com" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=372425360" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=e0b946b3-aff6-411f-9e9f-09c5bea2d2eb&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#Crave">Crave</a> </li> <li> <a href="http://dialedinvideopodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=317482235" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=67459cdd-6835-4119-b7b6-00788cfcc5b2&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#DialedIn">Dialed In</a> </li> <li> <a href="http://digitalcityvideopodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=317469333" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=a9fa1099-1432-466f-9a1d-624e52575e1d&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#DigitalCity">Digital City</a> </li> <li> <a href="http://firstlookpodcast.cnettv.com" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=323395318" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=336b0c45-6cda-4f86-9102-d21da805a8bb&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#FirstLook">First Look</a> </li> <li> <a href="http://the404videopodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=315423594" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=bd2b1cf3-1052-42d7-b053-9d6064803599&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#The404">The 404</a> </li> <li> <a href="http://gadgettesvideopodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=309811691" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=cbdc622f-8a4c-464c-8497-f7ed2d0d0041&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#Gadgettes">Gadgettes</a> </li> <li> <a href="http://greenshowpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=313722065" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=4d35e02e-30cc-44d9-b837-762ffdfec2fd&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#TheGreenShow">The Green Show</a> </li> <li> <a href="http://hackspodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=315333678" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=83577695-c08e-4253-a17f-3802079d2b79&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#Hacks">Hacks</a> </li> <li> <a href="http://howtopodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=313417427" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=68fc3058-9a0d-4984-a74d-8e36216d6541&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#HowTo">How To</a> </li> <li> <a href="http://loadedpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=273587908" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=ed7b13c4-1569-42fd-aef5-66d4a80abe27&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#Loaded">Loaded</a> </li> <li> <a href="http://pregamepodcast.cnettv.com" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=353058710" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=3d30765c-2e6c-4a0b-9600-3155061a33ec&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#preGAME">preGAME</a> </li> <li> <a href="http://prizefightpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=276979569" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=060070b9-04db-4d6e-8f33-9591c0a407bd&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#Prizefight">Prizefight</a> </li> <li> <a href="http://roundtablevideopodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=331786334" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=5e6a2cb0-b608-4662-b278-cfe4ad5aa77a&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#Reporters'Roundtable">Reporters' Roundtable</a> </li> <li> <a href="http://tapthatapppodcast.cnettv.com" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/us/podcast/tap-that-app-sd/id367076735" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=e1d34e29-4d9b-4d53-987a-612f82695174&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#TapThatApp">Tap That App</a> </li> <li> <a href="http://videopodcasts.cnet.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=264659389" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=aba6329b-22b6-4240-b4fd-a8dd848c7155&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#AllVideoPodcasts">All Video Podcasts</a> </li> </ul> </div> <h2 class="blogTopicsHed">HD Video podcast feeds</h2> <div class="blogTopics"> <ul> <li> <a href="http://applebytehdpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=294367636" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=a267eb9f-ca36-470b-9808-41ab7eb91370&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#TheAppleByte">The Apple Byte HD</a> </li> <li> <a href="http://buzzreporthdpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292025523" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=6bf4880f-1996-410c-97d6-da4cc94b2fa3&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#BuzzReport">Buzz Report HD</a> </li> <li> <a href="http://cartechhdpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292025793" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=3fa2aeea-9a3d-4a9c-b1c7-884743e38b2c&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#CarTech">Car Tech HD</a> </li> <li> <a href="http://conversationshdpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=336375904" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=mid=07289d2d-c2d4-4275-a865-b2ef266e9620&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#CNETConversations">CNET Conversations HD</a> </li> <li> <a href="http://techreviewhdpodcast.cnettv.com" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/us/podcast/cnet-tech-review-hd/id367084839" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=6c8ecb58-318c-4eaf-ae1f-c6601ef30557&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#CNETTechReview">CNET Tech Review HD</a> </li> <li> <a href="http://topfivehdpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292027206" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=63cc306a-c0c0-47f0-bf46-e1f73e6e323a&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#CNET'sTop5">CNET's Top 5 HD</a> </li> <li> <a href="http://firstlookhdpodcast.cnettv.com" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=323395608" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=8f454406-b2af-4d7e-a7bc-602ca3a51bc2&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#FirstLook">First Look HD</a> </li> <li> <a href="http://greenshowhdpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=313722074" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=c9652add-837b-4c94-9822-6923ab7eb47e&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#TheGreenShow">The Green Show HD</a> </li> <li> <a href="http://hackshdpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=315333741" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=3a69717f-57c1-40cb-a961-f74e2286a283&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#Hacks">Hacks HD</a> </li> <li> <a href="http://howtohdpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=313417425" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=955a69e3-e59f-4018-a72c-34f27babc48d&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#HowTo">How To HD</a> </li> <li> <a href="http://loadedhdpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292027393" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=67defa07-81d8-4fec-bc34-2ee1e962e743&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#Loaded">Loaded HD</a> </li> <li> <a href="http://prizefighthdpodcast.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292129648" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=112a89eb-761f-402a-84a0-095eb882e6a8&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#Prizefight">Prizefight HD</a> </li> <li> <a href="http://tapthatapphdpodcast.cnettv.com" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://itunes.apple.com/us/podcast/tap-that-app-hd/id367077067" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=d04d3891-38c5-4162-a8fa-3f48c84beac3&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#TapThatApp">Tap That App HD</a> </li> <li> <a href="http://hdvideopodcasts.cnettv.com/" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_rss.gif" alt="RSS" border=0 />
+</a> <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=292130379" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_itunes.gif" alt="iTunes" border=0 />
+</a> <a href="http://social.zune.net/my/ContentRedirect.ashx?mid=0ef4a7d2-a16b-42b3-9bba-9c41c2226d91&mtype=Podcast&CampaignID=1&affiliateID=" target="_new">
+<img src="http://i.i.com.com/cnwk.1d/i/ne/rss/pod_zune.gif" alt="Zune" border=0 />
+</a> <a class="white" href="#AllVideoPodcasts">All Video Podcasts HD</a> </li> </ul> </div> </div> <br /> </div> <!-- /contentAux --> </div> <!--/contentMain--> </div> <!--/rb-content--> <div id="footerWrap"> <div id="footerGlobal" section="ftr"> <div class="siteLinksWrap"> <div class="siteLinks"> <dl> <dt>Popular topics</dt> <dd>
+<a href="/apple-iphone.html">Apple iPhone</a>
+</dd> <dd>
+<a href="/ipod/">Apple iPod</a>
+</dd> <dd>
+<a href="http://reviews.cnet.com/cell-phones/">Cell phones</a>
+</dd> <dd>
+<a href="http://ces.cnet.com/">CES 2010</a>
+</dd> <dd>
+<a href="http://reviews.cnet.com/gps/">GPS</a>
+</dd> <dd>
+<a href="http://reviews.cnet.com/tvs/?filter=500961_113205_">LCD TV</a>
+</dd> <dd class="last"> <form> <select id="otherPopTopics" name="target" onchange="window.location=document.getElementById('otherPopTopics').options[document.getElementById('otherPopTopics').selectedIndex].value;"> <option selected="selected" value="">Other popular topics</option> <option value="http://reviews.cnet.com/best-netbooks/">Netbooks</option> <option value="http://www.cnet.com/palm-pre/">Palm Pre</option> <option value="http://www.cnet.com/ps3.html">PlayStation 3</option> <option value="http://download.cnet.com/Antivirus-Firewall-Spyware/">Security software</option> <option value="http://www.cnet.com/nintendo-wii.html">Wii</option> <option value="http://news.cnet.com/windows-7/">Windows 7</option> </select> </form> </dd> <noscript>
+<style>#otherPopTopics {display:none;}</style>
+<dd>
+<a href="http://reviews.cnet.com/tvs/?filter=500961_103914_">LCD TV</a>
+</dd>
+<dd>
+<a href="/ps3.html">PlayStation 3</a>
+</dd>
+<dd>
+<a href="http://reviews.cnet.com/computer-printers/">Printer reviews</a>
+</dd>
+<dd>
+<a href="http://download.cnet.com/Antivirus-Firewall-Spyware/">Security software</a>
+</dd>
+<dd>
+<a href="/nintendo-wii.html">Wii</a>
+</dd>
+<dd>
+<a href="/windows-vista.html">Windows Vista</a>
+</dd>
+</noscript> </dl> <dl> <dt>CNET sites</dt> <dd>
+<a href="/1991-6018_1-6946957-1.html">CNET Site map</a>
+</dd> <dd>
+<a href="http://cnettv.cnet.com/">CNET TV</a>
+</dd> <dd>
+<a href="http://download.cnet.com/">Downloads</a>
+</dd> <dd>
+<a href="http://news.cnet.com/">News </a>
+</dd> <dd>
+<a href="http://reviews.cnet.com/">Reviews</a>
+</dd> <dd>
+<a href="http://shopper.cnet.com/">Shopper.com</a>
+</dd> <dd class="last"> <form> <select id="otherCNETsites" name="target" onchange="window.location=document.getElementById('otherCNETsites').options[document.getElementById('otherCNETsites').selectedIndex].value;"> <option selected="selected" value="">Other CNET sites</option> <option value="http://www.cnetcontentsolutions.com">CNET Content Solutions</option> <option value="http://news.cnet.com/crave">Crave</option> <option value="http://forums.cnet.com/">Forums</option> <option value="http://www.iphoneatlas.com">iPhone Atlas</option> <option value="http://www.macfixit.com">MacFixIt</option> <option value="http://help.cnet.com">Tips & tricks</option> <option value="http://www.versiontracker.com">Version Tracker</option> <option value="http://news.cnet.com/webware">Webware</option> </select> </form> </dd> <noscript>
+<style>#otherCNETsites {display:none;}</style>
+<dd>
+<a href="http://news.cnet.com/crave/">Crave</a>
+</dd>
+<dd>
+<a href="http://forums.cnet.com/">Forums</a>
+</dd>
+<dd>
+<a href="http://www.iphoneatlas.com">iPhone Atlas</a>
+</dd>
+<dd>
+<a href="http://www.macfixit.com">MacFixIt</a>
+</dd>
+<dd>
+<a href="http://reviews.cnet.com/">Tips & tricks</a>
+</dd>
+<dd>
+<a href="http://www.versiontracker.com">Version Tracker</a>
+</dd>
+<dd>
+<a href="http://news.cnet.com/webware/">Webware</a>
+</dd>
+</noscript> </dl> <dl> <dt>More information</dt> <dd>
+<a href="/newsletters/">Newsletters</a>
+</dd> <dd>
+<a rel="nofollow" href="/mobile/splash/2706-31321_1-452.html">CNET Mobile</a>
+</dd> <dd>
+<a rel="nofollow" href="/widgets/">CNET Widgets</a>
+</dd> <dd>
+<a rel="nofollow" href="http://cnet.custhelp.com/">Customer Help Center</a>
+</dd> <dd>
+<a href="/4520-6022_1-5115040-1.html">RSS</a>
+</dd> <dd>
+<a href="http://developer.cnet.com/">CNET API</a>
+</dd> <dd>
+<a href="/about/">About CNET</a>
+</dd> <dd class="last"> <form> <select name="target" id="aboutCNETlinks" onchange="window.location=document.getElementById('aboutCNETlinks').options[document.getElementById('aboutCNETlinks').selectedIndex].value;"> <option selected="selected" value="http://www.cnetnetworks.com">About CBS Interactive</option> <option value="http://www.cnetnetworks.com/careers/">Careers</option> <option value="http://www.cnet.com/4520-6007_1-105831-1.html">Corrections</option> <option value="http://www.cnetnetworks.com/editorial/">Editorial</option> <option value="http://www.cnetnetworks.com/press/">Press</option> <option value="http://www.cnet.com/permissions/">CNET Permissions</option> </select> </form> </dd> <noscript>
+<style>#aboutCNETlinks {display:none;}</style>
+<dd>
+<a href="http://www.cnetnetworks.com">About CNET Networks</a>
+</dd>
+<dd>
+<a href="http://www.cnetnetworks.com/careers/">Careers</a>
+</dd>
+<dd>
+<a href="http://www.cnetnetworks.com/editorial/">Editorial</a>
+</dd>
+<dd>
+<a href="http://www.cnetnetworks.com/press/">Press</a>
+</dd>
+</noscript> </dl> <dl> <dd>
+<!--sponsored links-->
+<img src="http://i.i.com.com/cnwk.1d/i/fd/06/sponsored.gif" border="0" alt="sponsored"/>
+<div id="adMiniPremiere" style="clear:both;">
+    <div class="borderWrap">
+		<div class="adMiniPremHd">
+		  <div class="adMiniPremTopLeft">
+</div>
+		  <div class="adMiniPremTopRight">
+</div>
+		</div>
+        <p>TOP PRODUCTS FROM TOP BRANDS</p>
+        <ul>
+            <li class="premiereBrand">
+<a href="http://reviews.cnet.com/showcase/Dell-laptops/" class="brandLink">Dell products</a>
+                <ul class="miniPremiereBrandInfo">
+                    <li>
+                        <a href="http://reviews.cnet.com/showcase/Dell-desktops/">Home
+                            desktops</a>
+</li>
+                    <li>
+                        <a href="http://reviews.cnet.com/showcase/Dell-laptops/">Home
+                            notebooks</a>
+</li>
+                </ul>
+            </li>
+            <li class="premiereBrand">
+<a href="http://reviews.cnet.com/showcase/samsung-televisions" class="brandLink">Samsung</a>
+                <ul class="miniPremiereBrandInfo" style="width:160px">
+                    <li>
+<a href="http://reviews.cnet.com/showcase/samsung-televisions" style="width:160px">Televisions</a>
+</li>
+                    <li>
+<a href="http://reviews.cnet.com/showcase/samsung-mobilephones" style="width:160px">Mobile Phones</a>
+</li>
+                    <li>
+<a href="http://reviews.cnet.com/showcase/samsung-bluray-and-home-theater" style="width:160px">Blu-Ray & Home Theater</a>
+</li>
+                    <li>
+<a href="http://reviews.cnet.com/2703-3121_7-507-5.html?key=samsung_notebook" style="width:160px">Notebooks</a>
+</li>
+                    <li>
+<a href="http://reviews.cnet.com/showcase/samsung-monitors-and-printers" style="width:160px">Monitors & Printers</a>
+</li>
+					<li>
+<a href="http://reviews.cnet.com/showcase/samsung-cameras-and-camcorders" style="width:160px">Cameras & Camcorders</a>
+</li>
+                </ul>
+            </li>
+            <li class="premiereBrand">
+<a href="http://reviews.cnet.com/intel/" class="brandLink">Intel products</a>
+				<ul class="miniPremiereBrandInfo">
+					<li>
+						<a href="http://reviews.cnet.com/intel/notebooks/">Notebooks</a>
+					</li>
+					<li>
+						<a href="http://reviews.cnet.com/intel/desktops/">Desktops</a>
+					</li>
+					<li>
+						<a href="http://reviews.cnet.com/intel/internet-devices/">Internet Devices</a>
+					</li>
+				</ul>
+			</li>
+			<li class="premiereBrand">
+				<a href="/4360-6454_7-6565946.html?tb=1&key=att_cellphones&ttag=cnetfd.aisledir-att-cellphones" class="brandLink">AT&amp;T products</a>
+				<ul class="miniPremiereBrandInfo">
+					<li>
+    					<a href="/4360-6454_7-6565946.html?tb=1&key=att_cellphones&ttag=cnetfd.aisledir-att-cellphones">Cell phones</a>
+					</li>
+				</ul>
+			</li>
+            <li class="premiereBrand">
+<a
+                    href="http://reviews.cnet.com/showcase/Acer-Notebooks/?ttag=cnetfd.aisledir-acer-laptops" class="brandLink">Acer
+                products</a>
+                <ul class="miniPremiereBrandInfo">
+                    <li>
+<a href="http://reviews.cnet.com/showcase/Acer-Notebooks/?ttag=cnetfd.aisledir-acer-laptops">Notebooks</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+		<div class="adMiniPremFt">
+		  <div class="adMiniPremBotLeft">
+</div>
+		  <div class="adMiniPremBotRight">
+</div>
+		</div>
+    </div>    
+</div>
+<!--/sponsored links-->
+<script type="text/javascript">(function() {
+        $('adMiniPremiere').getElements('.premiereBrand').addEvents({mouseenter: function() {
+			this.addClass('hover');
+
+			var flyoutBtmY = this.getElement('ul').getCoordinates().top+this.getElement('ul').getComputedSize().totalHeight;
+			var windowHeight = window.getScroll().y + window.getSize().y;
+
+			if(windowHeight<flyoutBtmY){
+				this.getElement('ul').setPosition({
+					relativeTo: this,
+					position:'right',
+					offset: {y:windowHeight-flyoutBtmY-10}
+				});
+			}else{
+				this.getElement('ul').setPosition({
+					relativeTo: this,
+					position:'right',
+					offset: {y:-10}
+				});
+			}
+
+        },mouseleave: function() {
+			this.getElement('ul').setPosition({
+				relativeTo: this,
+				position:'right',
+				offset: {y:-10}
+			});
+			this.removeClass('hover');
+        }});
+})();</script>
+</dd> </dl> <ul class="footerPost"> <li class="first">Popular on CBS sites:</li> <li class=""> <a href="http://fantasynews.cbssports.com/fantasybaseball">Fantasy Baseball</a> </li> <li class=""> <a href="/apple-ipad/">iPad</a> </li> <li class=""> <a href="http://www.metacritic.com/games/">Video Game Reviews</a> </li> <li class=""> <a href="http://reviews.cnet.com/cell-phones/">Cell Phones</a> </li> <li class="last"> <a href="http://www.cbssports.com/nfl/draft">NFL Draft</a> </li> </ul> </div> </div> <div class="copyrightWrap"> <ul class="footerCopyright"> <li class="first">
+<a href="" rel="nofollow">&copy; 2010 CBS Interactive. All rights reserved.</a>
+</li> <li>
+<a href="http://legalterms.cbsinteractive.com/privacy" rel="nofollow">Privacy Policy</a>
+</li> <li>
+<a href="http://legalterms.cbsinteractive.com/terms-of-use" rel="nofollow">Terms of Use</a>
+</li> <li class="last">
+<a href="http://www.cbsinteractive.com/info/eula" rel="nofollow">Mobile User Agreement</a>
+</li> <li class="cnetSearch"> <form id="networkSites"> <p>Visit other CBS Interactive sites:</p> <select id="siteTarget" name="target" class="searchTarget"> <option selected="selected" value="">Select Site</option> <option value="http://www.bnet.com">BNET</option> <option value="http://www.cbscares.com">CBS Cares</option> <option value="http://www.cbssports.com/cbscollegesports/">CBS College Sports</option> <option value="http://www.cbsfilms.com">CBS Films</option> <option value="http://www.cbsradio.com/streaming/index.html">CBS Radio</option> <option value="http://www.cbs.com">CBS.com</option> <option value="http://www.cbsinteractive.com">CBSInteractive</option> <option value="http://www.cbsnews.com">CBSNews.com</option> <option value="http://www.cbssports.com">CBSSports.com</option> <option value="http://www.chow.com">CHOW</option> <option value="http://www.cnet.com">CNET</option> <option value="http://findarticles.com">Find Articles</option> <option value="http://www.gamespot.com">GameSpot</option> <option value="http://www.help.com">Help.com</option> <option value="http://www.last.fm">Last.fm</option> <option value="http://www.maxpreps.com">MaxPreps</option> <option value="http://www.metacritic.com">Metacritic.com</option> <option value="http://moneywatch.bnet.com">Moneywatch</option> <option value="http://www.movietome.com">MovieTome</option> <option value="http://www.mp3.com">MP3.com</option> <option value="http://www.mysimon.com">mySimon</option> <option value="http://www.ncaa.com">NCAA</option> <option value="http://www.radio.com">Radio.com</option> <option value="http://www.search.com">Search.com</option> <option value="http://www.shopper.com">Shopper.com</option> <option value="http://www.sho.com">Showtime</option> <option value="http://www.smartplanet.com">SmartPlanet</option> <option value="http://www.techrepublic.com">TechRepublic</option> <option value="http://www.theinsider.com">The Insider</option> <option value="http://www.tv.com">TV.com</option> <option value="http://www.urbanbaby.com">UrbanBaby.com</option> <option value="http://www.zdnet.com">ZDNet</option> </select> <a href="" onclick="window.location=document.getElementById('siteTarget').options[document.getElementById('siteTarget').selectedIndex].value;return false">
+<img src="http://i.i.com.com/cnwk.1d/i/tron/vader/go.gif"/>
+</a> </form> </li> <noscript>
+<style>#networkSites {display:none;}</style>
+<li>
+<a href="http://www.bnet.com">BNET</a> | <a href="http://www.chow.com">CHOW</a> | <a href="/">CNET.com</a> | <a href="http://www.cnetchannel.com">CNET Channel</a> | <a href="http://www.gamespot.com">GameSpot</a> | <a href="http://www.cnetnetworks.com/advertise/properties/international.html?">International Media</a> | <a href="http://www.mysimon.com/">mySimon</a> | <a href="http://www.search.com">Search.com</a> | <a href="http://techrepublic.com.com/">TechRepublic</a> | <a href="http://www.tv.com">TV.com</a> | <a href="http://www.zdnet.com/">ZDNet</a>
+</li>
+</noscript> </ul> </div> </div>
+<!-- /footerGlobal -->
+</div> <div id="servicesEtc">   <img src="http://dw.com.com/clear/c.gif?ts=1274953396&amp;im=mii1.4&amp;edId=3&amp;ptId=2709&amp;onId=11455&amp;sId=1&amp;asId=88&amp;astId=1&amp;pgnbr=1&amp;oid=2709-11455_1-88&amp;pguid=OFHOowoPjAMAAGV-tZ8AAABW&amp;ld=www.cnet.com&amp;tcset=ISO-8859-1&amp;title=CNET%20Podcast%20Central%20-%20CNET.com&amp;srcUrl=http://www.cnet.com/podcasts/" border="0" height="1" width="1" alt="" /> <script type="text/javascript"
+            src="http://js.revsci.net/gateway/gw.js?csid=K05540">
+</script> <SCRIPT LANGUAGE="JavaScript">
+        //<!--
+        DM_addToLoc("ncat", ("11455:"));
+        DM_addToLoc("site", ("1"));
+        DM_addToLoc("ptype", ("2709"));
+        DM_addToLoc("context", (" "));
+        DM_addToLoc("os", (" "));
+        DM_addToLoc("mfg", (" "));
+        DM_addToLoc("cid", ("88"));
+        DM_addToLoc("attr", (" "));
+        DM_addToLoc("carrier", (" "));
+        DM_tag();
+        //-->
+    </SCRIPT> <!-- Begin comScore Tag -->
+<script type="text/javascript" src="http://b.scorecardresearch.com/beacon.js">
+</script>
+<script>
+    //<!--
+    COMSCORE.beacon({
+    c1:2,
+    c2: 3000023,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+    });
+    //-->
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/b?c1=2&c2=3000023&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />
+</noscript>
+<!-- End comScore Tag --> <!-- CNET SURVEY --> <!-- missing include --> <script type="text/javascript" src="http://i.i.com.com/cnwk.1d/Ads/common/madUCat/MadUCat.js">
+</script> <!-- MAC T 14.14.14.15 -->
+<!-- MAC [r20091112-1054-msm-v1-13-11-DynamicHttpFetch:1.13.11] c18-rb-tron-xw4.cnet.com::1335986528 2010.05.27.09.43.16 -->
+<!-- no beacon mappings defined -->
+<!-- MAC ad --> <!-- PRINT TRACKER --> <script type="text/javascript" src="http://i.i.com.com/cnwk.1d/html/pt/pt2.js" name="cleanprintloader">
+</script> </div> <div id="cnetToolbarWrap" class="expanded"> <div id="cnetToolbarInnerWrap"> <div id="cnetToolbarContent"> <ul class="userTools"> <li id="tbRVP" class="tbPopup" section="toolbarRVP"> <span class="selector">Recently Viewed Products</span> </li> <li id="tbUserLists" class="tbPopup" section="toolbarLists"> <span class="selector">My Lists</span> </li> <li id="tbUserSoftware" class="tbPopup" section="toolbarSoftware"> <span class="selector">TechTracker</span> </li> <li id="tbUserAccount" class="tbPopup" section="toolbarAccount"> <span class="selector loggedOut"> <a class="cnetLogin">log in</a> | <a class="cnetRegister" >join CNET</a> </span> <span class="selector loggedIn"> <b class="welcome">
+<i class="cnetUserName">
+</i>
+</b> </span> </li> </ul> <span rel="nofollow" class="expandCollapse">
+</span> </div> </div>
+</div> </div>
+<!-- /rb_shell -->
+</div>
+<!-- /rb_bodyWrap --> <!-- DOM closed --> </body>
+</html>
