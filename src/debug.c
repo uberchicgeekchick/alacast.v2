@@ -62,6 +62,9 @@
 #include <stdarg.h>
 #include <string.h>
 
+#include <sys/stat.h>
+#include <glib/gstdio.h>
+
 #include <glib.h>
 #include <glib/gprintf.h>
 
@@ -81,6 +84,8 @@ static gboolean debug_reinit(void);
 static FILE *debug_log_rotate(void);
 static void debug_environment_check(void);
 static void debug_domains_check(const gchar *domains);
+static void debug_message_fprintf(FILE *fp, const gchar *prefix, const gchar *source_code, const gchar *method, const gint line_number, const gchar *msg, va_list args);
+
 
 
 /********************************************************************************
@@ -90,6 +95,7 @@ static gchar **debug_environment=NULL;
 static gboolean all_domains=FALSE;
 static gboolean debug_devel=FALSE;
 
+static FILE *debug_last_fp=NULL;
 static gchar **debug_domains=NULL;
 static gchar *debug_last_domains=NULL;
 static gchar *debug_last_source_code=NULL;
@@ -122,15 +128,15 @@ gboolean debug_if_devel(void){
 #else
 	return debug_devel;
 #endif
-}/*IF_DEVEL==if(debug_if_devel())*/
+}/*IF_DEVEL==debug_if_devel()*/
 
 gboolean debug_check_devel(const gchar *debug_environmental_value){
 #ifdef GNOME_ENABLE_DEBUG
 	debug_devel=TRUE;
-	if(!(debug_environmental_value && g_str_equal(debug_environmental_value, "ARTISTIC" ) ))
+	if(!(debug_environmental_value && g_str_equal(debug_environmental_value, "ARTISTIC")))
 		return FALSE;
 #else
-	if(!(debug_environmental_value && g_str_equal(debug_environmental_value, "ARTISTIC" ) ))
+	if(!(debug_environmental_value && g_str_equal(debug_environmental_value, "ARTISTIC")))
 		return (debug_devel=FALSE);
 #endif
 	
@@ -203,7 +209,7 @@ static void debug_environment_check(void){
 }/*debug_environment_check();*/
 
 static void debug_domains_check(const gchar *domains){
-	if( debug_last_domains && g_str_equal(domains, debug_last_domains) ) return;
+	if(debug_last_domains && g_str_equal(domains, debug_last_domains)) return;
 	
 	if(debug_last_domains) uber_free(debug_last_domains);
 	debug_last_domains=g_strdup(domains);
@@ -251,10 +257,15 @@ void debug_printf(const gchar *domains, const gchar *source_code, const gchar *m
 	static gboolean output_started=FALSE;
 	FILE *debug_output_fp=NULL;
 	
+	va_list args;
+	va_start(args, msg);
+	
 	debug_domains_check(domains);
+	gboolean error=g_str_has_prefix(msg, "**ERROR:**"); gboolean warning=g_str_has_prefix(msg, "**WARNING:**"); gboolean notice=g_str_has_prefix(msg, "**NOTICE:**"); gboolean debug=g_str_has_prefix(msg, "**DEBUG:**");
+	
 	for(guint x=0; debug_domains[x]; x++){
 		for(guint y=0; debug_environment[y]; y++) {
-			if(all_domains || !strcasecmp(debug_domains[x], debug_environment[y]) )
+			if(all_domains || !strcasecmp(debug_domains[x], debug_environment[y]))
 				debug_output_fp=stdout;
 			else if(debug_domains[x+1] || debug_environment[y+1])
 				continue;
@@ -265,47 +276,64 @@ void debug_printf(const gchar *domains, const gchar *source_code, const gchar *m
 				output_started=TRUE;
 				g_fprintf(debug_output_fp, "\n");
 			}
-			gboolean error=FALSE, warning=FALSE, notice=FALSE;
-			if( (error=g_str_has_prefix(msg, "**ERROR:**")) || (warning=g_str_has_prefix(msg, "**WARNING:**")) || (notice=g_str_has_prefix(msg, "**NOTICE:**")) ){
-				g_fprintf(stderr, "\n**%s %s in [%s]'s; in method: %s; on line: %d**: ", _(GETTEXT_PACKAGE), (error ?_("error") :(warning ?_("warning") :_("notice") ) ), source_code, method, line_number );
-				va_list args;
-				va_start(args, msg);
-				g_vfprintf(stderr, g_strrstr(msg, ":** ")+sizeof(":**"), args);
+			
+			const gchar *prefix=(error ?" error" :(warning ?" warning" : (notice ?" notice" :(debug?" debug" :NULL))));
+			
+			if(error || warning || notice){
+				debug_message_fprintf(stderr, prefix, source_code, method, line_number, msg, args);
 				va_end(args);
-				g_fprintf(stderr, ". @ %s %s\n", __DATE__, __TIME__);
+				va_start(args, msg);
+			}else if(debug){
+#ifdef				GNOME_ENABLE_DEBUG
+				debug_message_fprintf(stdout, prefix, source_code, method, line_number, msg, args);
+				va_end(args);
+				va_start(args, msg);
+#endif
 			}
 			
-			const gchar *newline;
-			const gchar *spacer;
-			if(!( debug_last_source_code && g_str_equal(debug_last_source_code, source_code) )){
-				if(debug_last_source_code) uber_free(debug_last_source_code);
-				debug_last_source_code=g_strdup(source_code);
-				g_fprintf(debug_output_fp, "\n\n[%s]; ", source_code);
-				newline="";
-				spacer="";
-			}else{
-				newline="\n";
-				spacer="\t";
-			}
-			
-			if(!( debug_last_method && g_str_equal(debug_last_method, method) )){
-				if(debug_last_method) uber_free(debug_last_method);
-				debug_last_method=g_strdup(method);
-				g_fprintf(debug_output_fp, "%s%s%sin method: %s; on line: %d:", newline, newline, spacer, method, line_number);
-			}else
-				g_fprintf(debug_output_fp, "%s%son line: %d:", newline, spacer, line_number);
-			g_fprintf(debug_output_fp, "\n\t\t");
-			
-			va_list args;
-			va_start(args, msg);
-			g_vfprintf(debug_output_fp, msg, args);
+			debug_message_fprintf(debug_output_fp, prefix, source_code, method, line_number, msg, args);
 			va_end(args);
-			g_fprintf(debug_output_fp, " @ %s %s", __DATE__, __TIME__);
 			
 			return;
 		}
 	}
+	va_end(args);
 }/*debug_printf(DEBUG_DOMAINS, "message" __format, format_args...);*/
+
+static void debug_message_fprintf(FILE *fp, const gchar *prefix, const gchar *source_code, const gchar *method, const gint line_number, const gchar *msg, va_list args){
+	const gchar *newline="";
+	const gchar *spacer="";
+	
+	if(!(debug_last_fp && debug_last_fp==fp && debug_last_source_code && g_str_equal(debug_last_source_code, source_code))){
+		if(!debug_last_fp) debug_last_fp=fp;
+		
+		if(!(debug_last_source_code && g_str_equal(debug_last_source_code, source_code))){
+			if(debug_last_source_code) uber_free(debug_last_source_code);
+			debug_last_source_code=g_strdup(source_code);
+		}
+		g_fprintf(fp, "\n%s%s%s%s[%s]; ", (G_STR_N_EMPTY(prefix) ?"**" :""), (G_STR_N_EMPTY(prefix) ?_(GETTEXT_PACKAGE) :""), (G_STR_N_EMPTY(prefix) ?_(prefix) :""), (G_STR_N_EMPTY(prefix) ?": **" :""), source_code);
+		newline="";
+		spacer="";
+	}else{
+		newline="\n";
+		spacer="\t";
+	}
+	
+	if(!(debug_last_method && g_str_equal(debug_last_method, method))){
+		if(debug_last_method) uber_free(debug_last_method);
+		debug_last_method=g_strdup(method);
+		g_fprintf(fp, "%s%s%s in method: %s; on line: %d:", newline, newline, spacer, method, line_number);
+	}else
+		g_fprintf(fp, "%s%s%s on line: %d:", newline, spacer, spacer, line_number);
+	g_fprintf(fp, "\n\t\t");
+	
+	if(!prefix)
+		g_vfprintf(fp, msg, args);
+	else
+		g_vfprintf(fp, g_strrstr(msg, ":** ")+sizeof(":**"), args);
+	va_end(args);
+	g_fprintf(fp, " @ %s %s\n", __DATE__, __TIME__);
+}/*debug_massage_fprintf(stdout|fp, prefix, source_code, method, line_number, msg, args);*/
 
 gboolean debug_if_domain(const gchar *domains){
 #ifdef GNOME_ENABLE_DEBUG
@@ -326,7 +354,7 @@ gboolean debug_if_domain(const gchar *domains){
 		}
 	}
 	return FALSE;
-}/*macro:IF_DEBUG if(debug_if_domain(DEBUG_DOMAINS))*/
+}/*macro:IF_DEBUG()==if(debug_if_domain(DEBUG_DOMAINS))*/
 
 
 /********************************************************************************
