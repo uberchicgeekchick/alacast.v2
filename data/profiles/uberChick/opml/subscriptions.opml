@@ -5,7 +5,7 @@
             gPodder subscriptions
         </title>
         <dateCreated>
-            Sat Jun  5 03:16:36 2010
+            Mon Jun  7 04:56:24 2010
         </dateCreated>
     </head>
     <body>
@@ -420,6 +420,7 @@
         <outline text="The podcast that predicts the present: host Jesse Brown and guests explore the Internet's impact on politics and culture." title="Search Engine" type="rss" xmlUrl="http://feeds.tvo.org/tvo/searchengine?format=xml"/>
         <outline text="Second Shift: Third-string delivery, First-string chaos!" title="Second Shift: An original fantasy Podplay (high-quality audio version)" type="rss" xmlUrl="http://secondshiftpodcast.com/xml/2shifthq.xml"/>
         <outline text="Young Junius and JACK PALMS CRIME" title="Seth Harwood Audiobooks" type="rss" xmlUrl="http://feeds.feedburner.com/sethharwood"/>
+        <outline text="Chronicles of Libidacoria" title="Shades of K--: Chronicles of Libidacoria" type="rss" xmlUrl="http://shadesofk.podbean.com/feed/"/>
         <outline text="The sci-fi, fantasy, and horror of Shawn Lewis." title="Shawn Lewis Audiobooks" type="rss" xmlUrl="http://feeds.feedburner.com/shawn-lewis"/>
         <outline text="Reality Never Sounded So Good" title="Skepchick Podcast" type="rss" xmlUrl="http://skepchick.libsyn.com/rss"/>
         <outline text="A skeptical look at science and technology in popular culture." title="Skeptech:A Skeptical Look at Tech" type="rss" xmlUrl="http://skeptech.net/wp-content/SkeptechPodcastFeed.rss"/>
@@ -454,13 +455,6 @@
         <outline text="http://teamironangel.kungfuactiontheatre.com/?feed=rss2" title="Team Iron Angel" type="rss" xmlUrl="http://teamironangel.kungfuactiontheatre.com/?feed=rss2"/>
         <outline text="http://techiediva.blip.tv/rss" title="Techie Diva" type="rss" xmlUrl="http://techiediva.blip.tv/rss"/>
         <outline text="Tech Policy Weekly from the Technology Liberation Front is a weekly discussion about technology policy from techliberation.coms learned band of contributors. It features some of the brightest and most provocative minds in the field of technology pub" title="Technology Liberation Front » Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/tlf-podcast"/>
-        <outline text="Technology Review exists to promote the understanding of emerging technologies and their impact." title="Technology Review AudioDizer Podcast - Biomedicine Top Stories" type="rss" xmlUrl="http://feeds.technologyreview.com/technology_review_audio_biotech?format=xml"/>
-        <outline text="Technology Review exists to promote the understanding of emerging technologies and their impact." title="Technology Review AudioDizer Podcast - Business Top Stories" type="rss" xmlUrl="http://feeds.technologyreview.com/technology_review_audio_biztech?format=xml"/>
-        <outline text="Technology Review exists to promote the understanding of emerging technologies and their impact." title="Technology Review AudioDizer Podcast - Communications Top Stories" type="rss" xmlUrl="http://feeds.technologyreview.com/technology_review_audio_communications?format=xml"/>
-        <outline text="Technology Review exists to promote the understanding of emerging technologies and their impact." title="Technology Review AudioDizer Podcast - Computing Top Stories" type="rss" xmlUrl="http://feeds.technologyreview.com/technology_review_audio_computing?format=xml"/>
-        <outline text="Technology Review exists to promote the understanding of emerging technologies and their impact." title="Technology Review AudioDizer Podcast - Energy Top Stories" type="rss" xmlUrl="http://feeds.technologyreview.com/technology_review_audio_energy?format=xml"/>
-        <outline text="Technology Review exists to promote the understanding of emerging technologies and their impact." title="Technology Review AudioDizer Podcast - Top Stories" type="rss" xmlUrl="http://feeds.technologyreview.com/technology_review_audio_top_stories?format=xml"/>
-        <outline text="Technology Review exists to promote the understanding of emerging technologies and their impact." title="Technology Review AudioDizer Podcast - Web Top Stories" type="rss" xmlUrl="http://feeds.technologyreview.com/technology_review_audio_web?format=xml"/>
         <outline text="Each year, the TED (Technology, Entertainment, Design) conference hosts some of the world's most fascinating people: Trusted voices and convention-breaking mavericks, icons and geniuses. These podcasts (also available in audio format) capture the most ext" title="TEDTalks (audio)" type="rss" xmlUrl="http://feeds.feedburner.com/TEDTalks_audio"/>
         <outline text="Each year, the TED (Technology, Entertainment, Design) conference hosts some of the world's most fascinating people: Trusted voices and convention-breaking mavericks, icons and geniuses. These podcasts (also available in audio format) capture the most ext" title="TEDTalks (video)" type="rss" xmlUrl="http://feeds.feedburner.com/tedtalks_video"/>
         <outline text="http://tenbuckreview.thedigitaldragonslair.com/?feed=rss2" title="Ten Buck Review" type="rss" xmlUrl="http://tenbuckreview.thedigitaldragonslair.com/?feed=rss2"/>
@@ -550,6 +544,5 @@
         <outline text="CBC Radio's Writers &amp; Company offers an opportunity to explore in depth the lives, thoughts and works of remarkable writers from around the world. Hosted by Eleanor Wachtel." title="Writers &amp; Company from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/writersandco.xml"/>
         <outline text="A sanctuary for young free-thinkers" title="Young Australian Skeptics » Podcast" type="rss" xmlUrl="http://www.youngausskeptics.com/category/podcast/feed/"/>
         <outline text="Young and Kinky is a youthful look at the kink and BDSM world intended for people 18 to 35 from the perspective of a kinky couple in their 20s and their views on BDSM, kink, and sex." title="youngandkinky's Podcast" type="rss" xmlUrl="http://youngandkinky.libsyn.com/rss"/>
-        <outline text="Chronicles of Libidacoria" title="Shades of K--: Chronicles of Libidacoria" type="rss" xmlUrl="http://shadesofk.podbean.com/feed/"/>
     </body>
 </opml>
