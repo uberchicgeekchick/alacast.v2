@@ -5,7 +5,7 @@
             gPodder subscriptions
         </title>
         <dateCreated>
-            Mon Jun  7 04:56:24 2010
+            Fri Jun 11 11:12:52 2010
         </dateCreated>
     </head>
     <body>
@@ -46,21 +46,21 @@
         <outline text="The Podcast For Everyone who Has a Brain" title="Brain Science Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/brainsciencepodcast"/>
         <outline text="http://www.brainready.com/braincasts/index.xml" title="BrainReady BrainCasts™ | BrainReady | BrainReady.com" type="rss" xmlUrl="http://www.brainready.com/braincasts/index.xml"/>
         <outline text="Stories on science, curiosities, and general knowledge" title="Brains Matter" type="rss" xmlUrl="http://feeds.feedburner.com/BrainsMatter"/>
-        <outline text="http://brokensea.com/bsg/?feed=podcast" title="Brokensea - Battlestar Galactica" type="rss" xmlUrl="http://brokensea.com/bsg/?feed=podcast"/>
+        <outline text="http://brokensea.com/bsg/feed/" title="Brokensea - Battlestar Galactica" type="rss" xmlUrl="http://brokensea.com/bsg/feed/"/>
         <outline text="Not everyone they find is ready … or willing … to don a costume and help others. And then again …some are. These are their adventures." title="BrokenSea - Beta Flight" type="rss" xmlUrl="http://brokensea.com/betaflight/feed/"/>
         <outline text="A New Dimension of Audio Theatre" title="BrokenSea - Doctor Who" type="rss" xmlUrl="http://brokensea.com/drwho/feed/"/>
         <outline text="http://brokensea.com/feedback/feed/" title="BrokenSea - Feedback: A Hero's Calling" type="rss" xmlUrl="http://brokensea.com/feedback/feed/"/>
         <outline text="Part private eye, part adventurer…all pulp hero. Set against a 1930’s backdrop, Jake Sampson: Monster Hunter is a tribute to the cliffhanger-laden, classic radio serials of yesteryear.Join Jake and his companions," title="BrokenSea - Jake Sampson: Monster Hunter" type="rss" xmlUrl="http://brokensea.com/jakesampson/feed/"/>
         <outline text="http://brokensea.com/maudelayne/feed/" title="BrokenSea - Maudelayne" type="rss" xmlUrl="http://brokensea.com/maudelayne/feed/"/>
         <outline text="http://brokensea.com/ulysses/feed/" title="BrokenSea - Ulysses Galactic Guides and Bounties Inc." type="rss" xmlUrl="http://brokensea.com/ulysses/feed/"/>
-        <outline text="Fight for the Furture" title="BrokenSea Audio - The X-Files" type="rss" xmlUrl="http://brokensea.com/thexfiles/?feed=podcast"/>
+        <outline text="Fight for the Furture" title="BrokenSea Audio - The X-Files" type="rss" xmlUrl="http://brokensea.com/thexfiles/feed/"/>
         <outline text="Find out what happened after the cameras turned off for the summer..." title="Buffy Between The Lines » Episode" type="rss" xmlUrl="http://www.buffybetweenthelines.com/category/episode/feed/"/>
         <outline text="Words at Large features the best in books on CBC Radio One. Feature interviews with authors, discussions about themes and all kinds of other tidbits make up this weekly podcast." title="CBC Radio: Words at Large" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/wordsatlarge.xml"/>
         <outline text="Chariot Solutions Tech Cast series brings you interviews with project creators, architects and consultants working out in the field, and features major open source projects and initiatives, such as Spring, Flex and RIA technologies, Mule, Groovy/Grails, C" title="Chariot Tech Cast" type="rss" xmlUrl="http://feeds.feedburner.com/ChariotTechCast"/>
         <outline text="Chatterbox Audio Theater creates fully soundscaped, live recordings with manual sound effects and as little post-production editing as possible" title="Chatterbox Audio Theater" type="rss" xmlUrl="http://www.chatterboxtheater.org/chatterbox-feed.rss"/>
         <outline text="A weekly tour of the periodic table, from Chemistry World, the magazine of the Royal Society of Chemistry." title="Chemistry in its element" type="rss" xmlUrl="http://www.rsc.org/chemistryworld/podcast/elements_podcast.xml"/>
         <outline text="Monthly podcast from Chemistry World, the magazine of the Royal Society of Chemistry." title="Chemistry World Podcast" type="rss" xmlUrl="http://www.rsc.org/chemistryworld/podcast/cw_podcast.xml"/>
-        <outline text="A war we cannot lose. An enemy we cannot defeat. A destiny we will not escape. Join humanity's fight for survival in this epic original sci-fi adventure podcast!" title="Children Of The Gods" type="rss" xmlUrl="http://feeds.feedburner.com/cotg/"/>
+        <outline text="A war we cannot lose. An enemy we cannot defeat. A destiny we will not escape. Join humanity's fight for survival in this epic original sci-fi adventure podcast!" title="Children Of The Gods" type="rss" xmlUrl="http://feeds.feedburner.com/cotg"/>
         <outline text="A Survey of Ancient Myth and Divinities" title="Classical Mythology Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/ClassicalMythologyPodcast"/>
         <outline text="Voices of Tomorrow Bringing you Today's Science Fiction and Fantasy" title="clonepod" type="rss" xmlUrl="http://feeds.feedburner.com/clonepod"/>
         <outline text="http://podcasts.cnet.co.uk/CNET_co_uk_Podcast.rss" title="CNET UK Podcast" type="rss" xmlUrl="http://podcasts.cnet.co.uk/CNET_co_uk_Podcast.rss"/>
@@ -106,6 +106,7 @@
         <outline text="Subscribe to the Friday News Feedbag and you'll sound like the smartest person in the room!  Every Friday, Discovery News drops some serious science and tech news on our listeners as reporters James Williams and Jorge Ribas each bring us their three favorite stories of the week.  The best part of all is that you the listener gets to decide the winner.  Just listen to the Friday News Feedbag, email your favorite story of the week to pod_cast@discovery.com and become a member of Feedbag Nation!" title="Discovery News Audio Podcast" type="rss" xmlUrl="http://www.discovery.com/radio/xml/news.xml"/>
         <outline text="Discovery Space video podcasts take you inside the world of NASA and deep into space.  As Discovery Channel partners with NASA to celebrate America's 50 years in space, you can download first-hand accounts from the astronauts themselves about what it was like to experience the triumphs of exploration.  Re-live the historic moments that have defined our years in space, learn space fact from space fiction and stay up-to-speed on the coolest stuff happening in the Universe." title="Discovery Space Podcast" type="rss" xmlUrl="http://www.discovery.com/radio/xml/DiscoverySpace.xml"/>
         <outline text="CBC Radio's DNTO inspires you to understand your own life. Through personal stories from (mostly) regular people, DNTO uncovers the magic and the humour of everyday life. Our friendly host Sook-Yin Lee always looks at the world in new and surprising ways. And the best part of the show is that each week she invites you to make discoveries along with her. DNTO...because everyone has a story." title="DNTO from CBC Radio (Highlights)" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/dnto.xml"/>
+        <outline text="Doctor Who Fan Audio Drama" title="Doctor Who: Legends of a Time Lord" type="rss" xmlUrl="http://www.giantgnome.com/category/doctor-who-podcast/feed/"/>
         <outline text="Doctor Who Audio Theater Podcast" title="Doctor Who: Time Tales" type="rss" xmlUrl="http://feeds.feedburner.com/DoctorWhoTimeTales"/>
         <outline text="Throughout the week BBC World Service offers a wide range of documentaries and other factual programmes. This podcast offers you the chance to access landmark series from our archive." title="Documentaries" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/worldservice/docarchive/rss.xml"/>
         <outline text="News and Views of Dogma" title="Dogma Free America" type="rss" xmlUrl="http://dogmafreeamerica.com/rss"/>
@@ -198,6 +199,7 @@
         <outline text="Got rope? Graydancer talks about all things kinky, including sex education, current events in the BDSM scene, and lots of juicy bondage-related stuff" title="Graydancer's Ropecast" type="rss" xmlUrl="http://ropecast.net/rss"/>
         <outline text="Great Speeches in History is a podcast devoted to the great thinkers, statesman and other public orators that have graced us throughout history with their words. Each week LearnOutLoud.com will offer up a new speech in audio format. Please visit www.learn" title="Great Speeches in History" type="rss" xmlUrl="http://feeds.feedburner.com/GreatSpeechesInHistory"/>
         <outline text="An Urban Fantasy Podcast Novel" title="Guardians" type="rss" xmlUrl="http://www.guardiansnovel.com/feed/"/>
+        <outline text="Among the querulous island kingdoms of Wefrivain, the only unifying power is religion - a wyvern cult ruled by an eccentric High Priestess. The system is under attack by a gang of pirates called the Guild of the Cowry Catchers who prey on Temple treasure" title="Guild of the Cowry Catchers" type="rss" xmlUrl="http://feeds.feedburner.com/GuildOfTheCowryCatchers"/>
         <outline text="Audio Minstrals" title="Gypsy Audio" type="rss" xmlUrl="http://www.gypsyaudio.org/?feed=podcast"/>
         <outline text="Audio Minstrals" title="Gypsy Audio » Lara Bond: 0012" type="rss" xmlUrl="http://www.gypsyaudio.org/larabond/feed/"/>
         <outline text="http://imaginationlane.net/hmslydia/?feed=podcast" title="H.M.S. Lydia" type="rss" xmlUrl="http://imaginationlane.net/hmslydia/?feed=podcast"/>
@@ -436,11 +438,13 @@
         <outline text="Podcasts of Terror" title="Something Wicked Presents... » Audio Reading" type="rss" xmlUrl="http://somethingwicked.co.za/podcasts/category/audio-reading/feed"/>
         <outline text="Something Wicked This Way Strums. A horror anthology by Michele Roger" title="Something Wicked This Way Strums - Free Podiocast Short Stories from the dark mind of Michele Roger" type="rss" xmlUrl="http://www.micheleroger.com/MicheleRoger.xml"/>
         <outline text="Sourcetunk will try to demystify the beautiful beast that is Open Source and show the listeners the more practical examples of Open Source and Free Software. It will discuss software for Linux, BSD, MacOSX and Microsoft Windows systems" title="SourceTrunk" type="rss" xmlUrl="http://feeds.feedburner.com/sourcetrunk_ogg"/>
+        <outline text="Original Science Fiction Audio Drama" title="SpaceNet" type="rss" xmlUrl="http://feeds.feedburner.com/SpaceNet"/>
         <outline text="CBC Radio's Spark is your guide to the Next Big Thing. On-air and online, join Nora Young for a surprising and irreverent look at tech, trends, and fresh ideas." title="Spark from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/spark.xml"/>
         <outline text="Spark is a blog, radio show, podcast and an ongoing conversation about technology and culture, hosted by Nora Young" title="Spark | CBC Radio » Audio" type="rss" xmlUrl="http://sparkblog.ca/spark/category/audio/feed/"/>
         <outline text="The Latest from NASA's Spitzer Space Telescope" title="Spitzer Space Telescope Podcast" type="rss" xmlUrl="http://www.spitzer.caltech.edu/features/podcasts/podfeed.xml"/>
         <outline text="A Star Trek fan drama set aboard the Excelsior-C in the late 24th Century." title="Star Trek: Excelsior" type="rss" xmlUrl="http://feeds.feedburner.com/StarTrekExcelsior"/>
         <outline text="Star Trek Audio Theater Podcast" title="Star Trek: Lost Frontier" type="rss" xmlUrl="http://feeds.feedburner.com/Star-Trek-Lost-Frontier"/>
+        <outline text="Star Trek Audio Drama from Giant Gnome Productions.  Life is good for Lt. Greg Torkelson aboard the USS Remington a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of" title="Star Trek: Outpost" type="rss" xmlUrl="http://feeds.feedburner.com/StarTrekOutpost"/>
         <outline text="Star Trek Audio Theater Podcast" title="Star Trek: Pioneers" type="rss" xmlUrl="http://feeds.feedburner.com/startrekpioneers"/>
         <outline text="Star Trek Audio Theater Podcast" title="Star Trek: The Section 31 Files" type="rss" xmlUrl="http://feeds.feedburner.com/TheSection31Files"/>
         <outline text="The Science Fiction Audio Magazine" title="StarShipSofa" type="rss" xmlUrl="http://www.starshipsofa.com/feed"/>
@@ -544,5 +548,6 @@
         <outline text="CBC Radio's Writers &amp; Company offers an opportunity to explore in depth the lives, thoughts and works of remarkable writers from around the world. Hosted by Eleanor Wachtel." title="Writers &amp; Company from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/writersandco.xml"/>
         <outline text="A sanctuary for young free-thinkers" title="Young Australian Skeptics » Podcast" type="rss" xmlUrl="http://www.youngausskeptics.com/category/podcast/feed/"/>
         <outline text="Young and Kinky is a youthful look at the kink and BDSM world intended for people 18 to 35 from the perspective of a kinky couple in their 20s and their views on BDSM, kink, and sex." title="youngandkinky's Podcast" type="rss" xmlUrl="http://youngandkinky.libsyn.com/rss"/>
+        <outline text="ARTC's Podcast" title="ARTC's Podcast" type="rss" xmlUrl="http://artcpodcast.org/rss"/>
     </body>
 </opml>
