@@ -5,7 +5,7 @@
             gPodder subscriptions
         </title>
         <dateCreated>
-            Fri Jun 11 11:12:52 2010
+            Sat Jun 12 19:50:22 2010
         </dateCreated>
     </head>
     <body>
@@ -31,6 +31,7 @@
         <outline text="Supernatural Thriller by Scott Roche" title="Archangel" type="rss" xmlUrl="http://feeds.feedburner.com/Archangel"/>
         <outline text="http://podcast.seti.org/index.xml" title="Are We Alone - where science isn't alien." type="rss" xmlUrl="http://podcast.seti.org/index.xml"/>
         <outline text="LearnOutLoud.com presents the Art History Podcast. Each episode provides thoughtful analysis of the enduring artistic masterpieces that have become hallmarks of western culture." title="Art History Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/ArtHistoryPodcast"/>
+        <outline text="http://artcpodcast.org/rss" title="ARTC's Podcast" type="rss" xmlUrl="http://artcpodcast.org/rss"/>
         <outline text="The best of Night Waves, Radio 3's flagship arts and ideas programme, featuring in-depth interviews; vociferous debates on key cultural and philosophical questions; and critics' judgement on the latest releases. Night Waves is broadcast on BBC Radio 3 Mon - Thurs at 9.15pm." title="Arts and Ideas" type="rss" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio3/r3arts/rss.xml"/>
         <outline text="Science with a Sense of Humour - The Naked Scientists Radio Show" title="Ask the Naked Scientists PODCAST" type="rss" xmlUrl="http://www.thenakedscientists.com/rss/ask_the_naked_scientists.xml"/>
         <outline text="Astronomy Cast offers you a fact based journey through the cosmos. Each week Fraser Cain (Universe Today) and Dr. Pamela Gay (SIUE / Slacker Astronomy) take on topics ranging from the nearby planets to ubiquitous dark matter." title="Astronomy Cast" type="rss" xmlUrl="http://www.astronomycast.com/podcast.xml"/>
@@ -391,7 +392,6 @@
         <outline text="The Changing World is a weekly series of documentaries that takes the time to explore multiple aspects of a single global issue" title="PRI: The Changing World" type="rss" xmlUrl="http://www.publicbroadcasting.net/theworld/podcasts/6503.xml"/>
         <outline text="In-depth interviews with nationally and internationally-known guests whose passion for new ideas challenge and engage." title="PRI: To the Best of Our Knowledge Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510011"/>
         <outline text="http://prometheus.libsyn.com/rss" title="Prometheus Radio Theatre" type="rss" xmlUrl="http://prometheus.libsyn.com/rss"/>
-        <outline text="Provocatalk Radio Adult Internet Erotic Radio" title="Provocatalk Radio - brought to you by LDW Group" type="rss" xmlUrl="http://www.provocatalk.com/feed/"/>
         <outline text="The Sound of Horror" title="Pseudopod" type="rss" xmlUrl="http://feeds.pseudopod.org/Pseudopod?format=xml"/>
         <outline text="Disability RadioNow Airing 1st, 3rd, and 5th Fridays at 2:30 pm      * Leave a message for Pushing Limits at: (510) 848-6767 ext. 636     * Email: pushinglimits[a]kpfa.org" title="Pushing Limits [KPFA 94.1 FM, Berkeley CA - kpfa.org]" type="rss" xmlUrl="http://www.kpfa.org/podcast/pod.php?show=pushinglimits"/>
         <outline text="Audio Theater in a Darker Shade set in the Quantum Leap universe" title="Quantum Retribution" type="rss" xmlUrl="http://feeds.feedburner.com/Quantum-Retribution"/>
@@ -516,7 +516,6 @@
         <outline text="CBC Radio's The Sunday Edition is a lively three-hour program of conversation, documentaries and music. Michael Enright, an accomplished journalist and broadcaster, is the host and tackles everything from politics to pop culture, in Canada and around the world." title="The Sunday Edition from CBC Radio (Highlights)" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/sundayedition.xml"/>
         <outline text="Never stop questioning." title="The Unbelievers" type="rss" xmlUrl="http://theunbelievers.tv/feed/podcast/"/>
         <outline text="I podcast review of Buffy The Vampire Slayer" title="The Watchercast" type="rss" xmlUrl="http://www.watchercast.com/?feed=podcast"/>
-        <outline text="http://recordings.talkshoe.com/rss78986.xml" title="The Weekly Hot Spot" type="rss" xmlUrl="http://recordings.talkshoe.com/rss78986.xml"/>
         <outline text="Come and get some free audio downloads!" title="The Wireless Theatre Company's Weblog" type="rss" xmlUrl="http://feeds.feedburner.com/WirelesstcsWeblog"/>
         <outline text="sci-fi &amp; horror OTR, novelty records and sci-fi and monster rock" title="The Zombie Astronaut's Frequency Of Fear" type="rss" xmlUrl="http://frequencyoffear.com/podcasts-only/rss2.aspx"/>
         <outline text="the_source is a video podcast/IPTV show that discusses open source and includes news, events, reviews, demos and interviews. Hosted by Aaron Newcomb." title="the_source (Video) - w/Aaron Newcomb, Ben Weber &amp; Brian Burgess" type="rss" xmlUrl="http://www.thesourceshow.org/theora.xml"/>
@@ -548,6 +547,5 @@
         <outline text="CBC Radio's Writers &amp; Company offers an opportunity to explore in depth the lives, thoughts and works of remarkable writers from around the world. Hosted by Eleanor Wachtel." title="Writers &amp; Company from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/writersandco.xml"/>
         <outline text="A sanctuary for young free-thinkers" title="Young Australian Skeptics » Podcast" type="rss" xmlUrl="http://www.youngausskeptics.com/category/podcast/feed/"/>
         <outline text="Young and Kinky is a youthful look at the kink and BDSM world intended for people 18 to 35 from the perspective of a kinky couple in their 20s and their views on BDSM, kink, and sex." title="youngandkinky's Podcast" type="rss" xmlUrl="http://youngandkinky.libsyn.com/rss"/>
-        <outline text="ARTC's Podcast" title="ARTC's Podcast" type="rss" xmlUrl="http://artcpodcast.org/rss"/>
     </body>
 </opml>
