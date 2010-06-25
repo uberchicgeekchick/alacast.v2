@@ -1,4 +1,0 @@
-#!/bin/tcsh -f
-zypper install cegui-devel gconfmm-devel gssdp-devel gtk2-devel gtkmm2-devel gtkspell-devel gupnp-devel libavahi-glib-devel libbonoboui-devel libcrystalspace-devel libfarsight2-devel libglade2-devel libglademm-devel libgnomecanvas-devel libgnomecanvasmm-devel libgnomemm-devel libgnomeprintui-devel libgnomeui-devel libgnomeuimm-devel libgupnp-igd-1_0-2-devel libnotify-devel libogmrip-devel libsexy-devel libsynfigapp-devel swfdec-devel wxWidgets-devel
-
-
