@@ -447,9 +447,10 @@ parse_argv:
 				
 				breaksw;
 			
-			case "htmlUrl":
 			case "title":
+			case "type":
 			case "text":
+			case "htmlUrl":
 			case "description":
 				set alacasts_catalog_search_attribute="${option}";
 				set alacasts_catalog_search_phrase="${value}";
