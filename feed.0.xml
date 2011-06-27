@@ -1,212 +1,362 @@
-<?xml version="1.0"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"  xmlns:atom="http://www.w3.org/2005/Atom">
-	
-		<webMaster>webmaster@podiobooks.com (Chris Miller)</webMaster>
-		<managingEditor>editor@podiobooks.com (Evo Terra)</managingEditor>
-		<pubDate>Thu, 29 Jul 2010 23:19:00 -0400</pubDate>
-		<category>podiobooks</category>
-		<category>audio book</category>
-		<category>Fantasy</category>
-		<image>
-			<url>http://www.podiobooks.com/images/covers/BloodyFoundations.jpg</url>
-			<width>144</width>
-			<height>144</height>
-			<link>http://www.podiobooks.com/title/bloody-foundations</link>
-			<title>Bloody Foundations: A Grace and Poppy Adventure - A free audiobook by Grady J. Gratt</title>
-		</image>
-		<copyright>Some rights reserved, 2004-2005. Grady J. Gratt</copyright>
-		<language>en-us</language>
-		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
-		<generator>Castermaster 1.0</generator>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://blogs.law.harvard.edu/tech/creativeCommonsRssModule" version="2.0">
 
 
-<!-- Start iTunes tags -->
-		<itunes:subtitle>A free audiobook by Grady J. Gratt</itunes:subtitle>
-		<itunes:summary>In this podiobook: In a world where magic is real and monsters lurk in the shadows, the only hope people have for saviors are a pair of janitors. They're not too pleased about it either, but they have experience in cleaning up messesGrace West: A general all around disappointment to her family, now making ends meet with a combination of crime scene cleaning and house flipping. She is as surprised as anyone to be making money from this unhealthy combination.Winterdawn "Poppy" Strongwill: A former child hero in the Fantastical world and now a full-time burnout, trying to live off the magical grid. Making do with a police station janitor job by day and reality TV shows and take out food at night.Unfortunately for our reluctant heroes the Fantastical World is a mess. Mythical monsters are running amuck, amoral wizards are experimenting on innocents, and one of the worst kinds of trouble is about to crash into their quiet little worlds. Emma is a golem, an unstopable monster made of clay. For an extra kick the fiend that made her used clay created with the ashes taken from the ovens of Dachau. Emma is set on a "holy" mission, to reclaim artifacts stolen from the victims of the Holocaust camps. Unfortunately she does this by killing everyone and anyone in her way, regarless of innocence, and in the most brutal ways possible. Grace and Poppy are drawn into Emma's orbit by the grisely murders of close friends. Knowing that they are the only ones who have a chance of stopping the monster, Grace and Poppy need to face their own demons and become the heroes that this world desperatley needs.And they better do it fast, because Emma does not stop, she does not forgive, and every second she's getting closer...</itunes:summary>
-		<itunes:owner>			<itunes:email>evo@podiobooks.com</itunes:email>
-			<itunes:name>Evo Terra</itunes:name>
-		</itunes:owner>
-		<itunes:author>Grady J. Gratt</itunes:author>
-		<itunes:category text="Arts"><itunes:category text="Literature"></itunes:category></itunes:category>
-		<itunes:image href="http://www.podiobooks.com/images/covers/BloodyFoundations.jpg"/>
-		<itunes:explicit>no</itunes:explicit>
-<!-- End iTunes tags -->
-		
 
-		<item>
-			<title>Bloody Foundations: Prologue - Bloody Foundations: A Grace and Poppy Adventure</title>
-			<link>http://www.podiobooks.com/</link>
-			<comments></comments>
-			<description>-In this episode: Our tale of blood, magic, real estate, and household cleaners begins... </description>
-			<category>podiobooks</category>
-			<category>audio book</category>
-			<category>Fantasy</category>
-			<guid isPermaLink="false">4ef6e63eaa9e6351ce0bb491445df08b</guid>
-			<pubDate>Thu, 29 Jul 2010 23:19:00 -0400</pubDate>
-			<author>editor@podiobooks.com (Evo Terra)</author>
-			<enclosure url="http://www.podiobooks.com/sample/230641/PB-BloodyFoundations-01.mp3" length="12718482" type="audio/mpeg" />
+		<outline title="<![CDATA[Wuthering Heights (Version 2) by Brontë, Emily]]>" xmlUrl="http://librivox.org/bookfeeds/wuthering-heights-by-emily-bronte-2.xml" type="rss" text="<![CDATA[Wuthering Heights (Version 2) by Brontë, Emily]]>" htmlUrl="http://librivox.org/wuthering-heights-by-emily-bronte-2/" description="<![CDATA[<h1>http://librivox.org/wuthering-heights-by-emily-bronte-2/</h1>Emily Brontë&apos;s only novel, published in 1847 under the pseudonym Ellis Bell, tells the tale of the all-encompassing and passionate, yet thwarted, love between Heathcliff and Catherine Earnshaw, and how this unresolved passion eventually destroys them and many around them.</p><p>Now considered a classic of English literature, Wuthering Heights met with mixed reviews by critics when it first appeared, with many horrified by the stark depictions of mental and physical cruelty.&nbsp; Though Charlotte Brontë&apos;s Jane Eyre was originally considered the best of the Brontë sisters&apos; works, many subsequent critics of Wuthering Heights argued that its originality and achievement made it superior. (Summary by Wikipedia)]]>" />
+<itunes:image href="http://librivox.org/librivox_logo.jpg" />
+<language>en</language>
+<itunes:summary><![CDATA[Emily Brontë's only novel, published in 1847 under the pseudonym Ellis Bell, tells the tale of the all-encompassing and passionate, yet thwarted, love between Heathcliff and Catherine Earnshaw, and how this unresolved passion eventually destroys them and many around them. 
 
+Now considered a classic of English literature, Wuthering Heights met with mixed reviews by critics when it first appeared, with many horrified by the stark depictions of mental and physical cruelty. Though Charlotte Brontë's Jane Eyre was originally considered the best of the Brontë sisters' works, many subsequent critics of Wuthering Heights argued that its originality and achievement made it superior. (Summary by Wikipedia)]]></itunes:summary>
+<itunes:author>LibriVox</itunes:author>
+<itunes:category text="Arts"><itunes:category text="Literature" /></itunes:category>
+<itunes:owner>
+  <itunes:name>LibriVox</itunes:name>
+  <itunes:email>info@librivox.org</itunes:email>
+</itunes:owner>
+<itunes:block>No</itunes:block>
+<itunes:explicit>No</itunes:explicit>
+<media:rating scheme="urn:simple">nonadult</media:rating><creativeCommons:license>http://www.creativecommons.org/licenses/publicdomain</creativeCommons:license>
+<item>
+<title>01_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_01_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_01_bronte_64kb.mp3" length="7487680" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>15:36</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:34 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_01_bronte_64kb.mp3" fileSize="7487680" type="audio/mpeg" />
+</item>
+<item>
+<title>02_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_02_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_02_bronte_64kb.mp3" length="12143538" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>25:18</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:33 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_02_bronte_64kb.mp3" fileSize="12143538" type="audio/mpeg" />
+</item>
+<item>
+<title>03_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_03_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_03_bronte_64kb.mp3" length="17829246" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>37:8</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:32 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_03_bronte_64kb.mp3" fileSize="17829246" type="audio/mpeg" />
+</item>
+<item>
+<title>04_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_04_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_04_bronte_64kb.mp3" length="9434535" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>19:39</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:31 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_04_bronte_64kb.mp3" fileSize="9434535" type="audio/mpeg" />
+</item>
+<item>
+<title>05_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_05_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_05_bronte_64kb.mp3" length="5338952" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>11:7</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:30 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_05_bronte_64kb.mp3" fileSize="5338952" type="audio/mpeg" />
+</item>
+<item>
+<title>06_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_06_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_06_bronte_64kb.mp3" length="9186267" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>19:8</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:29 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_06_bronte_64kb.mp3" fileSize="9186267" type="audio/mpeg" />
+</item>
+<item>
+<title>07_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_07_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_07_bronte_64kb.mp3" length="14072629" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>29:19</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:28 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_07_bronte_64kb.mp3" fileSize="14072629" type="audio/mpeg" />
+</item>
+<item>
+<title>08_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_08_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_08_bronte_64kb.mp3" length="12304036" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>25:38</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:27 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_08_bronte_64kb.mp3" fileSize="12304036" type="audio/mpeg" />
+</item>
+<item>
+<title>09_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_09_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_09_bronte_64kb.mp3" length="21092671" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>43:56</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:26 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_09_bronte_64kb.mp3" fileSize="21092671" type="audio/mpeg" />
+</item>
+<item>
+<title>10_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_10_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_10_bronte_64kb.mp3" length="22734831" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>47:21</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:25 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_10_bronte_64kb.mp3" fileSize="22734831" type="audio/mpeg" />
+</item>
+<item>
+<title>11_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_11_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_11_bronte_64kb.mp3" length="14921085" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>31:5</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:24 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_11_bronte_64kb.mp3" fileSize="14921085" type="audio/mpeg" />
+</item>
+<item>
+<title>12_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_12_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_12_bronte_64kb.mp3" length="18374683" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>38:16</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:23 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_12_bronte_64kb.mp3" fileSize="18374683" type="audio/mpeg" />
+</item>
+<item>
+<title>13_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_13_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_13_bronte_64kb.mp3" length="15931713" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>33:11</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:22 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_13_bronte_64kb.mp3" fileSize="15931713" type="audio/mpeg" />
+</item>
+<item>
+<title>14_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_14_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_14_bronte_64kb.mp3" length="12425870" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>25:53</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:21 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_14_bronte_64kb.mp3" fileSize="12425870" type="audio/mpeg" />
+</item>
+<item>
+<title>15_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_15_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_15_bronte_64kb.mp3" length="12271433" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>25:34</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:20 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_15_bronte_64kb.mp3" fileSize="12271433" type="audio/mpeg" />
+</item>
+<item>
+<title>16_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_16_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_16_bronte_64kb.mp3" length="7082053" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>14:45</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:19 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_16_bronte_64kb.mp3" fileSize="7082053" type="audio/mpeg" />
+</item>
+<item>
+<title>17_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_17_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_17_bronte_64kb.mp3" length="24396222" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>50:49</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:18 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_17_bronte_64kb.mp3" fileSize="24396222" type="audio/mpeg" />
+</item>
+<item>
+<title>18_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_18_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_18_bronte_64kb.mp3" length="12782600" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>26:37</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:17 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_18_bronte_64kb.mp3" fileSize="12782600" type="audio/mpeg" />
+</item>
+<item>
+<title>19_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_19_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_19_bronte_64kb.mp3" length="5814383" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>12:6</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:16 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_19_bronte_64kb.mp3" fileSize="5814383" type="audio/mpeg" />
+</item>
+<item>
+<title>20_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_20_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_20_bronte_64kb.mp3" length="7856321" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>16:22</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:15 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_20_bronte_64kb.mp3" fileSize="7856321" type="audio/mpeg" />
+</item>
+<item>
+<title>21_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_21_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_21_bronte_64kb.mp3" length="22425753" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>46:43</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:14 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_21_bronte_64kb.mp3" fileSize="22425753" type="audio/mpeg" />
+</item>
+<item>
+<title>22_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_22_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_22_bronte_64kb.mp3" length="8629130" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>17:58</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:13 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_22_bronte_64kb.mp3" fileSize="8629130" type="audio/mpeg" />
+</item>
+<item>
+<title>23_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_23_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_23_bronte_64kb.mp3" length="11006692" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>22:55</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:12 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_23_bronte_64kb.mp3" fileSize="11006692" type="audio/mpeg" />
+</item>
+<item>
+<title>24_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_24_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_24_bronte_64kb.mp3" length="13745577" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>28:38</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:11 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_24_bronte_64kb.mp3" fileSize="13745577" type="audio/mpeg" />
+</item>
+<item>
+<title>25_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_25_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_25_bronte_64kb.mp3" length="5362569" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>11:10</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:10 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_25_bronte_64kb.mp3" fileSize="5362569" type="audio/mpeg" />
+</item>
+<item>
+<title>26_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_26_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_26_bronte_64kb.mp3" length="5853045" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>12:11</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:09 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_26_bronte_64kb.mp3" fileSize="5853045" type="audio/mpeg" />
+</item>
+<item>
+<title>27_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_27_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_27_bronte_64kb.mp3" length="17382032" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>36:12</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:08 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_27_bronte_64kb.mp3" fileSize="17382032" type="audio/mpeg" />
+</item>
+<item>
+<title>28_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_28_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_28_bronte_64kb.mp3" length="9678209" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>20:9</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:07 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_28_bronte_64kb.mp3" fileSize="9678209" type="audio/mpeg" />
+</item>
+<item>
+<title>29_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_29_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_29_bronte_64kb.mp3" length="9068823" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>18:53</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:06 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_29_bronte_64kb.mp3" fileSize="9068823" type="audio/mpeg" />
+</item>
+<item>
+<title>30_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_30_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_30_bronte_64kb.mp3" length="8046494" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>16:45</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:05 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_30_bronte_64kb.mp3" fileSize="8046494" type="audio/mpeg" />
+</item>
+<item>
+<title>31_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_31_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_31_bronte_64kb.mp3" length="7652777" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>15:56</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:04 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_31_bronte_64kb.mp3" fileSize="7652777" type="audio/mpeg" />
+</item>
+<item>
+<title>32_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_32_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_32_bronte_64kb.mp3" length="14672821" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>30:34</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:03 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_32_bronte_64kb.mp3" fileSize="14672821" type="audio/mpeg" />
+</item>
+<item>
+<title>33_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_33_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_33_bronte_64kb.mp3" length="12590967" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>26:13</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:02 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_33_bronte_64kb.mp3" fileSize="12590967" type="audio/mpeg" />
+</item>
+<item>
+<title>34_wuthering-heights-by-emi</title>
+<link>http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_34_bronte_64kb.mp3</link>
+<enclosure url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_34_bronte_64kb.mp3" length="17127913" type="audio/mpeg" />
+<itunes:explicit>No</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>35:41</itunes:duration>
+<pubDate>Sat, 14 Apr 2007 05:00:01 -0000</pubDate>
+<media:content url="http://www.archive.org/download/wuthering_heights_rg_librivox/wutheringheights_34_bronte_64kb.mp3" fileSize="17127913" type="audio/mpeg" />
+</item>
 
-			<!-- Start iTunes tags -->
-			<itunes:author>Grady J. Gratt</itunes:author>
-			<itunes:subtitle>Our tale of blood, magic, real estate, and...</itunes:subtitle>
-			<itunes:summary>Our tale of blood, magic, real estate, and household cleaners begins...</itunes:summary>
-		<itunes:explicit>no</itunes:explicit>
-			<itunes:duration>00:45:00</itunes:duration>
-			<itunes:keywords>BloodyFoundationsAGraceandPoppyAdventure, Grady J. Gratt, Fantasy, podiobook, audio book</itunes:keywords>
-			<!-- End iTunes tags -->
-
-
-		</item>
-		<item>
-			<title>Bloody Foundations: Chapter 1 - Bloody Foundations: A Grace and Poppy Adventure</title>
-			<link>http://www.podiobooks.com/</link>
-			<comments></comments>
-			<description>-In this episode: Meet Grace West, a crime scene cleaner and real estate agent. She's about to find out that her current job is a bit more interesting than she thought. </description>
-			<category>podiobooks</category>
-			<category>audio book</category>
-			<category>Fantasy</category>
-			<guid isPermaLink="false">d04577c0c0c5d6d12ffa8239522c711f</guid>
-			<pubDate>Wed, 28 Jul 2010 23:19:00 -0400</pubDate>
-			<author>editor@podiobooks.com (Evo Terra)</author>
-			<enclosure url="http://www.podiobooks.com/sample/230642/PB-BloodyFoundations-02.mp3" length="20316138" type="audio/mpeg" />
-
-
-			<!-- Start iTunes tags -->
-			<itunes:author>Grady J. Gratt</itunes:author>
-			<itunes:subtitle>Meet Grace West, a crime scene cleaner and...</itunes:subtitle>
-			<itunes:summary>Meet Grace West, a crime scene cleaner and real estate agent. She's about to find out that her current job is a bit more interesting than she thought.</itunes:summary>
-		<itunes:explicit>no</itunes:explicit>
-			<itunes:duration>00:45:00</itunes:duration>
-			<itunes:keywords>BloodyFoundationsAGraceandPoppyAdventure, Grady J. Gratt, Fantasy, podiobook, audio book</itunes:keywords>
-			<!-- End iTunes tags -->
-
-
-		</item>
-		<item>
-			<title>Bloody Foundations: Chapter 2 - Bloody Foundations: A Grace and Poppy Adventure</title>
-			<link>http://www.podiobooks.com/</link>
-			<comments></comments>
-			<description>-In this episode: Meet Winterdawn Oakblade Strongwill, but please call him Poppy. He's a former child hero now a burned out police station janitor, clean from the adventurer's life for many years...at least until now. </description>
-			<category>podiobooks</category>
-			<category>audio book</category>
-			<category>Fantasy</category>
-			<guid isPermaLink="false">dfa7c35b6b9a0b655ffdc37d7d3a716e</guid>
-			<pubDate>Tue, 27 Jul 2010 23:19:00 -0400</pubDate>
-			<author>editor@podiobooks.com (Evo Terra)</author>
-			<enclosure url="http://www.podiobooks.com/sample/230643/PB-BloodyFoundations-03.mp3" length="19336023" type="audio/mpeg" />
-
-
-			<!-- Start iTunes tags -->
-			<itunes:author>Grady J. Gratt</itunes:author>
-			<itunes:subtitle>Meet Winterdawn Oakblade Strongwill, but please call him...</itunes:subtitle>
-			<itunes:summary>Meet Winterdawn Oakblade Strongwill, but please call him Poppy. He's a former child hero now a burned out police station janitor, clean from the adventurer's life for many years...at least until now.</itunes:summary>
-		<itunes:explicit>no</itunes:explicit>
-			<itunes:duration>00:45:00</itunes:duration>
-			<itunes:keywords>BloodyFoundationsAGraceandPoppyAdventure, Grady J. Gratt, Fantasy, podiobook, audio book</itunes:keywords>
-			<!-- End iTunes tags -->
-
-
-		</item>
-		<item>
-			<title>Bloody Foundations: Chapter 3 - Bloody Foundations: A Grace and Poppy Adventure</title>
-			<link>http://www.podiobooks.com/</link>
-			<comments></comments>
-			<description>-In this episode: Grace and her business partner Kerri explore the house they're about to sell and discover something interesting. Meanwhile, a malevolent force begins to impact the city, starting in a laundromat. </description>
-			<category>podiobooks</category>
-			<category>audio book</category>
-			<category>Fantasy</category>
-			<guid isPermaLink="false">f42c07782fcea0d63342c7b2861335b5</guid>
-			<pubDate>Mon, 26 Jul 2010 23:19:00 -0400</pubDate>
-			<author>editor@podiobooks.com (Evo Terra)</author>
-			<enclosure url="http://www.podiobooks.com/sample/230644/PB-BloodyFoundations-04.mp3" length="43336076" type="audio/mpeg" />
-
-
-			<!-- Start iTunes tags -->
-			<itunes:author>Grady J. Gratt</itunes:author>
-			<itunes:subtitle>Grace and her business partner Kerri explore the...</itunes:subtitle>
-			<itunes:summary>Grace and her business partner Kerri explore the house they're about to sell and discover something interesting. Meanwhile, a malevolent force begins to impact the city, starting in a laundromat.</itunes:summary>
-		<itunes:explicit>no</itunes:explicit>
-			<itunes:duration>00:45:00</itunes:duration>
-			<itunes:keywords>BloodyFoundationsAGraceandPoppyAdventure, Grady J. Gratt, Fantasy, podiobook, audio book</itunes:keywords>
-			<!-- End iTunes tags -->
-
-
-		</item>
-		<item>
-			<title>Bloody Foundations: Chapter 4 - Bloody Foundations: A Grace and Poppy Adventure</title>
-			<link>http://www.podiobooks.com/</link>
-			<comments></comments>
-			<description>-In this episode: Poppy returns home from work, and is forced to deal with the aftermath of what happened in the laundromat. </description>
-			<category>podiobooks</category>
-			<category>audio book</category>
-			<category>Fantasy</category>
-			<guid isPermaLink="false">d5cd4c524c4ecf42c74f269d8130dfe8</guid>
-			<pubDate>Sun, 25 Jul 2010 23:19:00 -0400</pubDate>
-			<author>editor@podiobooks.com (Evo Terra)</author>
-			<enclosure url="http://www.podiobooks.com/sample/230645/PB-BloodyFoundations-05.mp3" length="54600494" type="audio/mpeg" />
-
-
-			<!-- Start iTunes tags -->
-			<itunes:author>Grady J. Gratt</itunes:author>
-			<itunes:subtitle>Poppy returns home from work, and is forced...</itunes:subtitle>
-			<itunes:summary>Poppy returns home from work, and is forced to deal with the aftermath of what happened in the laundromat.</itunes:summary>
-		<itunes:explicit>no</itunes:explicit>
-			<itunes:duration>00:45:00</itunes:duration>
-			<itunes:keywords>BloodyFoundationsAGraceandPoppyAdventure, Grady J. Gratt, Fantasy, podiobook, audio book</itunes:keywords>
-			<!-- End iTunes tags -->
-
-
-		</item>
-		<item>
-			<title>Bloody Foundations: Chapter 5 - Bloody Foundations: A Grace and Poppy Adventure</title>
-			<link>http://www.podiobooks.com/</link>
-			<comments></comments>
-			<description>-In this episode: Grace and Kerri attempt to sell the murder house, along with doing a little light surveillance for the police. </description>
-			<category>podiobooks</category>
-			<category>audio book</category>
-			<category>Fantasy</category>
-			<guid isPermaLink="false">b981fb316ada9ab57632d55c88b45bde</guid>
-			<pubDate>Sat, 24 Jul 2010 23:19:00 -0400</pubDate>
-			<author>editor@podiobooks.com (Evo Terra)</author>
-			<enclosure url="http://www.podiobooks.com/sample/230646/PB-BloodyFoundations-06.mp3" length="12582221" type="audio/mpeg" />
-
-
-			<!-- Start iTunes tags -->
-			<itunes:author>Grady J. Gratt</itunes:author>
-			<itunes:subtitle>Grace and Kerri attempt to sell the murder...</itunes:subtitle>
-			<itunes:summary>Grace and Kerri attempt to sell the murder house, along with doing a little light surveillance for the police.</itunes:summary>
-		<itunes:explicit>no</itunes:explicit>
-			<itunes:duration>00:45:00</itunes:duration>
-			<itunes:keywords>BloodyFoundationsAGraceandPoppyAdventure, Grady J. Gratt, Fantasy, podiobook, audio book</itunes:keywords>
-			<!-- End iTunes tags -->
-
-
-		</item>
-		<item>
-			<title>Bloody Foundations: A Grace and Poppy Adventure - You've caught up with the author!</title>
-			<link>http://www.podiobooks.com/</link>
-			<comments></comments>
-			<description>You've caught up with the author...</description>
-			<category>audio book</category>
-			<category>Fantasy</category>
-			<guid isPermaLink="false">e64e647dfdd0b9c5559be6ee4a2b1366</guid>
-			<pubDate>Sat, 24 Jul 2010 23:19:00 -0400</pubDate>
-			<author>editor@podiobooks.com (Evo Terra)</author>
-			<enclosure url="http://www.podiobooks.com/sample/0/caught_up_1.mp3" length="404254" type="audio/mpeg" />
-
-
-			<!-- Start iTunes tags -->
-			<itunes:author>Podiobooks Staff</itunes:author>
-			<itunes:subtitle>You've caught up with the author...</itunes:subtitle>
-			<itunes:summary>You've caught up with the author...</itunes:summary>
-		<itunes:explicit>no</itunes:explicit>
-			<itunes:duration>00:01:00</itunes:duration>
-			<itunes:keywords>BloodyFoundationsAGraceandPoppyAdventure, Grady J. Gratt, Fantasy, podiobook, audio book</itunes:keywords>
-			<!-- End iTunes tags -->
-
-
-		</item>
-	
-	</channel>
+</channel>
 </rss>
